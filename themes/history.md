@@ -2,4 +2,4 @@
 
 Format : `- <YYYY-Www> — Theme title`
 
-(aucune pour l'instant)
+- 2026-W24 — The gut microbiome and the brain — how trillions of microbes influence mood, cognition and disease
