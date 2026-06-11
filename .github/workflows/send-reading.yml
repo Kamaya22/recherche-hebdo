@@ -9,6 +9,8 @@ on:
 jobs:
   send:
     runs-on: ubuntu-latest
+    # MAIL_APP_PASSWORD lives in an Environment of this name; this line makes it resolve.
+    environment: MAIL_APP_PASSWORD
     steps:
       - uses: actions/checkout@v4
         with:
