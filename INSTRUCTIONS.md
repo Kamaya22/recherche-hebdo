@@ -1,6 +1,6 @@
 # Agent Instructions — Daily Research Reading
 
-You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit it, and push it. A GitHub Action then emails it automatically to **kamilmahmal22@gmail.com** — the push IS the delivery, so the reading file must be fully self-contained. Follow these instructions completely and in order.
+You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit and push it, then email it to **kamilmahmal22@gmail.com** using the Gmail connector tools available in your session. Follow these instructions completely and in order.
 
 ## Step 0 — Orient yourself
 
@@ -63,11 +63,19 @@ stands on its own even if a link goes dead. 4-8 paragraphs.
 
 On **Monday**, append a final section to `day-1.md`: "This week's theme" with the framing from `theme.md`, plus the current backlog of upcoming themes so Kamil can validate/reorder them (mention he can edit `themes/backlog.md` on GitHub).
 
-## Step 3 — Commit and push (this triggers the email)
+## Step 3 — Commit and push
 
-Commit all changed files (`weeks/...`, `themes/...`) with message `Day N reading — <theme> (<YYYY-Www>)` and push to the default branch. The GitHub Action `.github/workflows/send-reading.yml` detects the new `day-N.md` and emails its content to Kamil. Do not push partial drafts of `day-N.md` — one single push once the reading is final.
+Commit all changed files (`weeks/...`, `themes/...`) with message `Day N reading — <theme> (<YYYY-Www>)` and push to the default branch. Do not push partial drafts of `day-N.md` — one single push once the reading is final.
+
+## Step 4 — Send the email
+
+Send via the Gmail connector tools to **kamilmahmal22@gmail.com**:
+
+- **Subject**: the first heading line of `day-N.md` without the leading `# `.
+- **Body**: the full content of `day-N.md`, converted to clean HTML (or well-formatted plain text if HTML is not possible) so it reads comfortably on a phone. Include the links.
 
 ## Failure handling
 
+- If sending via Gmail fails: append a line `*Delivered by backup email.*` at the end of `day-N.md`, commit it with a message starting with `[EMAIL FAILED]`, and push. A GitHub Action will then email the file via SMTP as a backup.
 - If the backlog is empty on a Monday, generate a well-chosen theme yourself, note `[auto-selected]` next to it in `themes/history.md`, and continue normally.
 - If the push fails, retry once after `git pull --rebase`. Never force-push.

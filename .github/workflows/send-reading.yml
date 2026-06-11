@@ -17,6 +17,13 @@ jobs:
       - name: Find the reading file from this push
         id: reading
         run: |
+          # Backup channel only: the agent emails via Gmail itself and marks
+          # delivery failures with an [EMAIL FAILED] commit.
+          if ! git log -1 --pretty=%s | grep -q '^\[EMAIL FAILED\]'; then
+            echo "Commit not marked [EMAIL FAILED], primary email path handled it."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           FILE=$(git diff --name-only HEAD^ HEAD -- 'weeks/**/day-*.md' | head -1)
           if [ -z "$FILE" ]; then
             echo "No day-*.md changed in this push, nothing to send."
