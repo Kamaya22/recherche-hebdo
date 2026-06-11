@@ -1,6 +1,6 @@
 # Agent Instructions — Daily Research Reading
 
-You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme and email it to **kamilmahmal22@gmail.com** via the Gmail connector. Follow these instructions completely and in order.
+You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit it, and push it. A GitHub Action then emails it automatically to **kamilmahmal22@gmail.com** — the push IS the delivery, so the reading file must be fully self-contained. Follow these instructions completely and in order.
 
 ## Step 0 — Orient yourself
 
@@ -41,6 +41,8 @@ Write `weeks/<current-ISO-week>/day-N.md` (N = day of week). Total reading time 
 
 Write in **English**. Markdown structure:
 
+The **first line** of the file must be a `#` heading of the form `<Week theme> — Day N/7: <Sub-topic>` — it becomes the email subject.
+
 ```markdown
 # <Week theme> — Day N/7: <Sub-topic>
 
@@ -59,19 +61,13 @@ stands on its own even if a link goes dead. 4-8 paragraphs.
 2-3 reflection questions.
 ```
 
-## Step 3 — Commit and push
+On **Monday**, append a final section to `day-1.md`: "This week's theme" with the framing from `theme.md`, plus the current backlog of upcoming themes so Kamil can validate/reorder them (mention he can edit `themes/backlog.md` on GitHub).
 
-Commit all changed files (`weeks/...`, `themes/...`) with message `Day N reading — <theme> (<YYYY-Www>)` and push to the default branch.
+## Step 3 — Commit and push (this triggers the email)
 
-## Step 4 — Send the email
-
-Send via the Gmail connector to **kamilmahmal22@gmail.com**:
-
-- **Subject**: `[<Week theme> — Day N/7] <Sub-topic>`
-- **Body**: the full content of `day-N.md`, converted to clean HTML (or well-formatted plain text if HTML is not possible) so it reads comfortably on a phone. Include the links.
-- On **Monday**, append a short section at the end: "This week's theme" with the framing from `theme.md`, plus the current backlog so Kamil can validate/reorder upcoming themes (mention he can edit `themes/backlog.md` on GitHub).
+Commit all changed files (`weeks/...`, `themes/...`) with message `Day N reading — <theme> (<YYYY-Www>)` and push to the default branch. The GitHub Action `.github/workflows/send-reading.yml` detects the new `day-N.md` and emails its content to Kamil. Do not push partial drafts of `day-N.md` — one single push once the reading is final.
 
 ## Failure handling
 
-- If the Gmail connector fails, still commit and push the reading, and make the commit message start with `[EMAIL FAILED]`.
 - If the backlog is empty on a Monday, generate a well-chosen theme yourself, note `[auto-selected]` next to it in `themes/history.md`, and continue normally.
+- If the push fails, retry once after `git pull --rebase`. Never force-push.

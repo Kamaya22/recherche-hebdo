@@ -6,7 +6,8 @@ Automatisation personnelle : chaque semaine, une thématique scientifique ou soc
 
 - **Routine cloud Claude** : s'exécute tous les jours (cron `0 5 * * *` UTC). Elle clone ce repo, lit `INSTRUCTIONS.md` et le suit intégralement.
 - **Lundi** : l'agent démarre une nouvelle semaine en prenant le premier thème de `themes/backlog.md` (priorité aux thèmes `validé`). Il réapprovisionne le backlog en propositions si besoin.
-- **Chaque jour** : l'agent rédige la lecture du jour (`weeks/<YYYY-Www>/day-N.md`), la committe, puis l'envoie par email.
+- **Chaque jour** : l'agent rédige la lecture du jour (`weeks/<YYYY-Www>/day-N.md`) et la pousse sur GitHub.
+- **Envoi de l'email** : la GitHub Action `.github/workflows/send-reading.yml` détecte chaque nouveau `day-N.md` poussé et l'envoie par email (SMTP Gmail). Secrets requis dans le repo : `MAIL_USERNAME` (adresse Gmail) et `MAIL_APP_PASSWORD` (mot de passe d'application Google, créé sur https://myaccount.google.com/apppasswords).
 
 ## Comment piloter les thématiques
 

@@ -1,0 +1,44 @@
+name: Send daily reading by email
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "weeks/**"
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find the reading file from this push
+        id: reading
+        run: |
+          FILE=$(git diff --name-only HEAD^ HEAD -- 'weeks/**/day-*.md' | head -1)
+          if [ -z "$FILE" ]; then
+            echo "No day-*.md changed in this push, nothing to send."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          SUBJECT=$(head -1 "$FILE" | sed 's/^# *//')
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+          echo "subject=$SUBJECT" >> "$GITHUB_OUTPUT"
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+
+      - name: Send email
+        if: steps.reading.outputs.skip == 'false'
+        uses: dawidd6/action-send-mail@v6
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_APP_PASSWORD }}
+          subject: ${{ steps.reading.outputs.subject }}
+          to: kamilmahmal22@gmail.com
+          from: Recherche Hebdo <${{ secrets.MAIL_USERNAME }}>
+          html_body: file://${{ steps.reading.outputs.file }}
+          convert_markdown: true
