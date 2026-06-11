@@ -70,3 +70,5 @@ Despite these caveats, the convergence across epidemiological, mechanistic, and 
 2. The FMT trial in PD showed no motor benefit, but was conducted in patients with established disease. How might the result differ if FMT (or microbiome-targeted diet) were applied in the prodromal phase, before motor symptoms appear? What would such a trial look like?
 
 3. The germ-free mouse experiments show that *no* microbiome dramatically reduces amyloid-beta plaques. But germ-free animals are immunologically abnormal in many other ways. How should we weigh this evidence — and what would be a stronger causal test in humans?
+
+*Delivered by backup email.*
