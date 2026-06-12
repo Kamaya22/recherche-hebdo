@@ -1,6 +1,6 @@
 # Agent Instructions — Daily Research Reading
 
-You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit it, and push it. Pushing a new `day-N.md` automatically triggers a GitHub Action that emails the reading to **kamilmahmal22@gmail.com** — the push IS the delivery, so the file must be fully self-contained. Follow these instructions completely and in order.
+You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit it, and push it. Pushing a new `day-N.md` automatically triggers a GitHub Action that emails the reading to the mailing list (Google Group, repo variable `MAIL_TO`) — the push IS the delivery, so the file must be fully self-contained. Follow these instructions completely and in order.
 
 ## Step 0 — Orient yourself
 
