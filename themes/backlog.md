@@ -3,7 +3,6 @@
 L'agent prend chaque lundi le **premier thème `validé`** de cette liste (sinon le premier `proposé`).
 Pour piloter : changer `proposé` → `validé`, réordonner les lignes, supprimer ou ajouter librement.
 
-- [proposé] CRISPR and genome editing therapies — from molecular mechanism to approved treatments and ethical debates
 - [proposé] Urban heat islands and climate adaptation of cities — physics, health impacts, and design solutions
 - [proposé] The behavioral economics of poverty — how scarcity shapes decision-making
 - [proposé] The neuroscience of pain — why pain is a construction of the brain and what this means for treatment
