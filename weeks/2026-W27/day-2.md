@@ -61,3 +61,4 @@ Third, the overall bilobed structure explains the large conformational changes C
 2. HDR efficiency in quiescent primary cells remains the primary bottleneck for correction-type editing. Cell cycle synchronisation, NHEJ inhibitors, and template design improvements have all been explored. If you could increase HDR efficiency to 50% in human HSCs, what disease applications would become tractable that are currently not, and what new safety questions would that raise?
 
 3. The crystal structure of Cas9 bound to its target DNA was essential for understanding off-target activity and for engineering improved variants. How dependent is the next generation of precision editing tools (base editors, prime editors) on comparable structural knowledge — do you expect structural biology to continue to be rate-limiting for this field, or has it been largely superseded by high-throughput functional screening?
+
