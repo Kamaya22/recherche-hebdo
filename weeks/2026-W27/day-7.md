@@ -86,3 +86,4 @@ This week has covered a technology whose clinical impact in the near term is cer
 2. If you were advising a national health ministry in a country where sickle cell disease is a major public health problem (say, Ghana, Nigeria, or India), what would your one-page brief on CRISPR therapies say for the next five years? What would you recommend investing in, and what would you counsel waiting on?
 
 3. The governance literature consistently notes that the scientific community is not solely responsible for decisions about germline editing — that patients, disability advocates, affected communities, and the public must be genuinely involved, not just "consulted." What would genuine community involvement in the governance of germline editing look like in practice, and what institutions would need to exist to make it real?
+
