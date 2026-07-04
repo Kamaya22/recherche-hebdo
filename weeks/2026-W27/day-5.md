@@ -79,3 +79,4 @@ Several important safety questions remain open. First, do any of the chromosomal
 2. The ex vivo setting of Casgevy allows each batch of edited cells to be tested for off-target editing before infusion — a safety check that in vivo LNP-delivery approaches cannot replicate. As in vivo delivery moves to new organs (liver, eye, heart), what safety governance framework should apply to ensure that off-target risk is adequately characterised before large Phase 3 trials enrol hundreds of patients?
 
 3. Base editing avoids double-strand breaks, which reduces one class of off-target risk (chromosomal rearrangements), but introduces a new one (deaminase activity on non-targeted DNA/RNA). Is the net safety improvement over Cas9 unambiguous, or does the answer depend on the specific application and the specific base editor being used?
+
