@@ -7,3 +7,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W26 — Misinformation dynamics — how false information spreads and what actually works against it
 - 2026-W27 — CRISPR and genome editing therapies — from molecular mechanism to approved treatments and ethical debates
 - 2026-W28 — Urban heat islands and climate adaptation of cities — physics, health impacts, and design solutions
+- 2026-W29 — The behavioral economics of poverty — how scarcity shapes decision-making
