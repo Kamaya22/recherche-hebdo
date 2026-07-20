@@ -1,0 +1,17 @@
+# The neuroscience of pain — why pain is a construction of the brain and what this means for treatment
+
+## Why it matters
+
+Pain is the most universal human experience and the leading cause of disability worldwide, yet for most of medical history it was treated as a simple alarm signal: damage somewhere in the body → pain in the mind. Over the past fifty years, neuroscience has dismantled that picture. Pain is not a read-out of tissue injury; it is an active construction of the brain, shaped as much by expectation, emotion, memory, and context as by signals from the periphery. The same injury produces wildly different pain in different people — and wildly different pain in the same person depending on their mental state, their past experiences, and what they believe is happening to them. This is not a curiosity; it is the central fact of pain biology, and it explains both why chronic pain is so difficult to treat with drugs that target peripheral nerve signals, and why psychological and social factors are genuine — not imagined — contributors to pain.
+
+Understanding the neuroscience of pain also illuminates one of the deepest puzzles in medicine: how do we explain phantom limb pain, placebo analgesia, or the anguish of losing a loved one? Each challenges the idea that pain requires a body part, a drug, or a tissue wound. The brain constructs all of them. Getting this right matters for the roughly 1.5 billion people worldwide living with chronic pain, for the epidemic of opioid prescribing that followed from a biomedical-only model of pain, and for the design of therapies that actually address the mechanism rather than just the signal.
+
+## Tentative 7-day outline
+
+- **Day 1 — Panorama**: What pain is, what it is not, the distinction between nociception and the pain experience, the three categories of pain (nociceptive, neuropathic, nociplastic), and why the naïve biomedical model fails.
+- **Day 2 — From skin to spinal cord**: Nociceptors and their molecular sensors (TRP channels, sodium channels), the two fiber types (Aδ and C), the dorsal horn as the first processing gate, and the gate control theory that changed everything in 1965.
+- **Day 3 — The brain in pain**: The "pain matrix" — which cortical and subcortical structures encode different dimensions of pain (intensity, unpleasantness, location, meaning) and what lesion and neuroimaging studies reveal about each.
+- **Day 4 — Chronic pain as a disease of plasticity**: Central sensitization, wind-up, glial involvement (microglia and astrocytes), structural brain changes in chronic pain, and why "the damage is healed but the pain persists" makes neurobiological sense.
+- **Day 5 — The brain constructs pain**: Top-down modulation from the periaqueductal grey and descending pathways, predictive coding and the role of expectation, placebo and nocebo effects, and the evidence that the brain actively predicts, generates, and can suppress pain.
+- **Day 6 — From neuroscience to treatment**: Why targeting peripheral nociception alone is insufficient, what new targets look like (selective ion channel blockers, CGRP antagonists, descending inhibition enhancers), the evidence for psychologically-informed approaches (cognitive behavioral therapy, acceptance and commitment therapy, pain neuroscience education), and the integration question.
+- **Day 7 — Synthesis**: The biopsychosocial model vindicated by neuroscience, what is settled vs. open, three to five big open questions in pain research, and pointers for going deeper.
