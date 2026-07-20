@@ -8,3 +8,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W27 — CRISPR and genome editing therapies — from molecular mechanism to approved treatments and ethical debates
 - 2026-W28 — Urban heat islands and climate adaptation of cities — physics, health impacts, and design solutions
 - 2026-W29 — The behavioral economics of poverty — how scarcity shapes decision-making
+- 2026-W30 — The neuroscience of pain — why pain is a construction of the brain and what this means for treatment
