@@ -10,3 +10,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W29 — The behavioral economics of poverty — how scarcity shapes decision-making
 - 2026-W30 — The neuroscience of pain — why pain is a construction of the brain and what this means for treatment
 - 2026-W31 — Quantum computing for the non-physicist — what qubits actually are, where the technology stands, and realistic near-term applications
+- 2026-W32 — Antibiotic resistance — mechanisms, global surveillance, and the pipeline crisis
