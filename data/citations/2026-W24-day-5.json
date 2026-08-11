@@ -1,0 +1,47 @@
+{
+  "week": "2026-W24",
+  "day": 5,
+  "theme": "The gut microbiome and the brain",
+  "citations": [
+    {
+      "source_id": "bmc-medicine",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2017,
+      "url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-017-0791-y",
+      "title": "A randomised controlled trial of dietary improvement for adults with major depression (the 'SMILES' trial)"
+    },
+    {
+      "source_id": "cell",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(21)00754-6",
+      "title": "Gut-microbiota-targeted diets modulate human immune status"
+    },
+    {
+      "source_id": "nutrition-reviews",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://academic.oup.com/nutritionreviews/article/83/7/e1504/7934047",
+      "title": "Effects of prebiotics and probiotics on symptoms of depression and anxiety in clinically diagnosed samples: systematic review and meta-analysis of randomized controlled trials"
+    },
+    {
+      "source_id": "frontiers-in-psychiatry",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": null,
+      "title": null
+    }
+  ]
+}

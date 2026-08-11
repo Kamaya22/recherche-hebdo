@@ -1,0 +1,57 @@
+{
+  "week": "2026-W24",
+  "day": 4,
+  "theme": "The gut microbiome and the brain",
+  "citations": [
+    {
+      "source_id": "translational-neurodegeneration",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://link.springer.com/article/10.1186/s40035-023-00392-8",
+      "title": "Parkinson's disease and gut microbiota: from clinical to mechanistic and therapeutic studies"
+    },
+    {
+      "source_id": "jama-neurology",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2024,
+      "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2821254",
+      "title": "Fecal Microbiota Transplantation for Treatment of Parkinson Disease: A Randomized Clinical Trial"
+    },
+    {
+      "source_id": "npj-dementia",
+      "location": "todays-readings",
+      "evidence_type": "umbrella-review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s44400-025-00048-6",
+      "title": "Association between gut microbial dysbiosis and Alzheimer's disease: an umbrella review"
+    },
+    {
+      "source_id": "npj-parkinsons-disease",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": null,
+      "title": null
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": null,
+      "title": null
+    }
+  ]
+}

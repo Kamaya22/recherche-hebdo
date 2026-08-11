@@ -1,0 +1,125 @@
+name: Promote an agent branch to main
+
+# Safety net. The cloud sandbox starts each routine run on a fresh `claude/...` branch, and a
+# reading left there is never emailed (send-reading.yml only listens to `main`). If a run pushes
+# its reading to a branch instead of to main, this workflow moves it to main and fires the email.
+# The routine is still expected to push straight to main — see INSTRUCTIONS.md Step 3.
+
+on:
+  push:
+    branches: ["claude/**"]
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: promote-to-main
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Promote the branch onto main
+        id: promote
+        env:
+          SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+
+          skip() {
+            echo "$1"
+            echo "promoted=false" >> "$GITHUB_OUTPUT"
+            echo "report=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          }
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Already published — never re-dispatch, that would resend an old email.
+          if git merge-base --is-ancestor "$SHA" HEAD; then
+            skip "main already contains $SHA, nothing to promote."
+          fi
+
+          BASE=$(git merge-base HEAD "$SHA")
+          CHANGED=$(git diff --name-only "$BASE" "$SHA")
+          echo "Changed files on this branch:"
+          echo "$CHANGED"
+
+          # Only publishable work gets promoted.
+          if ! echo "$CHANGED" | grep -qE '^(weeks/.+/day-[0-9]+\.md|rapports/.+\.md)$'; then
+            skip "No reading or report on this branch — nothing publishable, leaving main alone."
+          fi
+
+          # Refuse anything that reaches outside the content directories.
+          if echo "$CHANGED" | grep -qvE '^(weeks/|themes/|rapports/|data/)'; then
+            skip "Branch touches files outside weeks|themes|rapports|data — refusing to auto-promote."
+          fi
+
+          # Keep main linear: send-reading.yml checks out with fetch-depth 2 and reads
+          # `git log -1 -- weeks/**/day-*.md`, which a merge commit would hide.
+          if git merge --ff-only "$SHA" 2>/dev/null; then
+            echo "Fast-forwarded main."
+          else
+            # main has moved on since the branch was cut. Replaying the commits conflicts
+            # (two runs each create weeks/<week>/theme.md), so copy the publishable content
+            # instead: the reading and report files. main stays authoritative for the
+            # themes/ bookkeeping, whose branch version is stale by definition.
+            echo "Not a fast-forward. Copying the publishable files from $SHA onto main."
+            # `|| true`: a grep with no match returns 1, which pipefail would turn into a
+            # job failure. A branch legitimately may carry no theme.md.
+            CONTENT=$(echo "$CHANGED" | grep -E '^(weeks/.+/day-[0-9]+\.md|rapports/.+\.md)$' || true)
+            THEMES=$(echo "$CHANGED" | grep -E '^weeks/.+/theme\.md$' || true)
+
+            for f in $CONTENT; do
+              echo "  taking $f"
+              git checkout "$SHA" -- "$f"
+            done
+            # theme.md only when main does not have one for that week yet.
+            for f in $THEMES; do
+              if [ -e "$f" ]; then
+                echo "  keeping main's $f"
+              else
+                echo "  taking $f"
+                git checkout "$SHA" -- "$f"
+              fi
+            done
+
+            if [ -z "$(git status --porcelain)" ]; then
+              skip "Those files are already on main with identical content — nothing to publish."
+            fi
+
+            git commit -m "$(git log -1 --format=%s "$SHA")" \
+                       -m "Promoted onto main from ${GITHUB_REF_NAME} by promote-to-main.yml."
+          fi
+
+          git push origin main
+
+          echo "promoted=true" >> "$GITHUB_OUTPUT"
+          if echo "$CHANGED" | grep -qE '^rapports/.+\.md$'; then
+            echo "report=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "report=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # A push made with GITHUB_TOKEN does not trigger other workflows; workflow_dispatch is the
+      # documented exception, so the email workflows are kicked off explicitly here. Both already
+      # have a dispatch path that picks the most recently committed reading/report.
+      - name: Send the reading
+        if: steps.promote.outputs.promoted == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run send-reading.yml --ref main
+
+      - name: Send the weekly report
+        if: steps.promote.outputs.promoted == 'true' && steps.promote.outputs.report == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run send-report.yml --ref main

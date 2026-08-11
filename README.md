@@ -17,18 +17,34 @@ Automatisation personnelle : chaque semaine, une thématique scientifique ou soc
 - Réordonner les lignes pour changer la priorité (l'agent prend le premier `validé`, sinon le premier `proposé`).
 - Supprimer ou ajouter des thèmes librement.
 
+## Traçabilité et statistiques des sources
+
+Pour pouvoir **vérifier** (et pas seulement espérer) que les lectures restent diversifiées et de qualité dans la durée, chaque source citée est enregistrée comme donnée structurée dans `data/` :
+
+- **`data/registry.csv`** — registre canonique des **revues/venues**, étiquetées par **éditeur**, **type**, **discipline** et **pays**. C'est le fichier que tu **audites et corriges** : ouvre-le, rectifie un classement, traite les lignes `to-verify`, puis pousse. Taxonomie complète dans `data/README.md`. **Tu gardes le dernier mot.**
+- **`data/citations/<YYYY-Www>-day-N.json`** — toutes les sources citées par une lecture (liste « Today's readings » **et** études mentionnées dans le texte), avec type de preuve, open access, peer-review et année — écrites par l'agent le jour même.
+- **`data/STATS.md`** — tableaux statistiques **déterministes** (par éditeur, type de preuve, open access, discipline, pays, année, venues les plus citées, évolution par semaine, alertes de concentration), régénérés automatiquement à chaque push par la GitHub Action `build-stats.yml`. Fichier généré : ne pas l'éditer à la main.
+- **Rapport hebdomadaire** : le **jour 7**, l'agent écrit une analyse interprétée de la diversité des sources de la semaine (`rapports/<YYYY-Www>.md`), envoyée par email via `send-report.yml`. Le jour 7 envoie donc deux mails (la lecture + le rapport).
+- **Aperçu visuel local** : `python tools/preview_stats.py --open` ouvre un tableau de bord HTML (`stats-preview.html`, ignoré par git).
+
 ## Structure
 
 ```
-INSTRUCTIONS.md      — instructions complètes de l'agent (format, qualité des sources, logique)
-themes/backlog.md    — thèmes à venir (éditable à tout moment)
-themes/history.md    — thèmes déjà traités
-weeks/<YYYY-Www>/    — archive des lectures : theme.md + day-1.md … day-7.md
+INSTRUCTIONS.md           — instructions complètes de l'agent (format, qualité, traçabilité, rapport)
+themes/backlog.md         — thèmes à venir (éditable à tout moment)
+themes/history.md         — thèmes déjà traités
+weeks/<YYYY-Www>/         — archive des lectures : theme.md + day-1.md … day-7.md
+data/README.md            — codebook : colonnes du registre et taxonomie des sources
+data/registry.csv         — registre canonique des revues/venues (auditable)
+data/citations/<...>.json — sources citées par chaque lecture
+data/STATS.md             — statistiques déterministes (généré automatiquement)
+rapports/<YYYY-Www>.md    — rapports hebdomadaires de diversité des sources
+tools/build_stats.py      — génère data/STATS.md à partir des citations + registre
 ```
 
 ## Ajuster le format des lectures
 
-Modifier `INSTRUCTIONS.md` : la routine relit ce fichier à chaque exécution, aucun changement de la routine elle-même n'est nécessaire.
+Modifier `INSTRUCTIONS.md` : la routine relit ce fichier à chaque exécution, aucun changement de la routine elle-même n'est nécessaire. Pour corriger l'étiquetage des sources, éditer `data/registry.csv` (`STATS.md` se recalcule au push suivant).
 
 ## Mailing list
 
