@@ -1,0 +1,57 @@
+{
+  "week": "2026-W33",
+  "day": 3,
+  "theme": "The deep ocean",
+  "citations": [
+    {
+      "source_id": "life-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.mdpi.com/2075-1729/14/4/432",
+      "title": "Systematic Distribution of Bioluminescence in Marine Animals: A Species-Level Inventory"
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://www.nature.com/articles/ncomms4271",
+      "title": "Large mesopelagic fishes biomass and trophic efficiency in the open ocean"
+    },
+    {
+      "source_id": "cell",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(24)01479-X",
+      "title": "Microbial ecosystems and ecological driving forces in the deepest ocean sediments"
+    },
+    {
+      "source_id": "scientific-reports",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2017,
+      "url": "https://www.nature.com/articles/srep45750",
+      "title": "Quantification of bioluminescence from the surface to the deep sea demonstrates its predominance as an ecological trait"
+    },
+    {
+      "source_id": "global-change-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.12480",
+      "title": "Global reductions in seafloor biomass in response to climate change"
+    }
+  ]
+}
