@@ -1,0 +1,57 @@
+{
+  "week": "2026-W33",
+  "day": 4,
+  "theme": "The deep ocean",
+  "citations": [
+    {
+      "source_id": "biogeosciences",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.5194/bg-21-3373-2024",
+      "title": "The biological and preformed carbon pumps in perpetually slower and warmer oceans"
+    },
+    {
+      "source_id": "nature-reviews-earth-environment",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s43017-025-00750-2",
+      "title": "Antarctic Bottom Water in a changing climate"
+    },
+    {
+      "source_id": "pnas",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1073/pnas.2419543122",
+      "title": "Weakening AMOC reduces ocean carbon uptake and increases the social cost of carbon"
+    },
+    {
+      "source_id": "annual-review-marine-science",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2023,
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-marine-040722-115226",
+      "title": "Quantifying the Ocean's Biological Pump and Its Carbon Cycle Impacts on Global Scales"
+    },
+    {
+      "source_id": "advances-in-atmospheric-sciences",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://doi.org/10.1007/s00376-026-5876-0",
+      "title": "Ocean Heat Content Sets Another Record in 2025"
+    }
+  ]
+}
