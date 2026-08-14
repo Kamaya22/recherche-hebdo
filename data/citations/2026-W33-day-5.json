@@ -1,0 +1,57 @@
+{
+  "week": "2026-W33",
+  "day": 5,
+  "theme": "The deep ocean",
+  "citations": [
+    {
+      "source_id": "nature-ecology-evolution",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s41559-025-02911-4",
+      "title": "Impacts of an industrial deep-sea mining trial on macrofaunal biodiversity"
+    },
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s41586-025-08818-1",
+      "title": "The distribution of subsurface microplastics in the ocean"
+    },
+    {
+      "source_id": "global-change-biology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.1111/gcb.15307",
+      "title": "Rapid deep ocean deoxygenation and acidification threaten life on Northeast Pacific seamounts"
+    },
+    {
+      "source_id": "nature-reviews-earth-environment",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s43017-025-00750-2",
+      "title": "Antarctic Bottom Water in a changing climate"
+    },
+    {
+      "source_id": "biogeosciences",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.5194/bg-21-3373-2024",
+      "title": "The biological and preformed carbon pumps in perpetually slower and warmer oceans"
+    }
+  ]
+}
