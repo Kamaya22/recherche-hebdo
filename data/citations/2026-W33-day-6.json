@@ -1,0 +1,37 @@
+{
+  "week": "2026-W33",
+  "day": 6,
+  "theme": "The deep ocean",
+  "citations": [
+    {
+      "source_id": "annual-review-marine-science",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.1146/annurev-marine-022521-102008",
+      "title": "Argo—Two Decades: Global Oceanography, Revolutionized"
+    },
+    {
+      "source_id": "engineering-journal",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1016/j.eng.2025.08.002",
+      "title": "The state of the art in key technologies for autonomous underwater vehicles: a review"
+    },
+    {
+      "source_id": "ioc-unesco",
+      "location": "todays-readings",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.ioc.unesco.org/en/articles/seabed-2030-announces-latest-progress-world-hydrography-day",
+      "title": "Seabed 2030 announces latest progress on World Hydrography Day"
+    }
+  ]
+}
