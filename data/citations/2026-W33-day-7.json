@@ -1,0 +1,97 @@
+{
+  "week": "2026-W33",
+  "day": 7,
+  "theme": "The deep ocean",
+  "citations": [
+    {
+      "source_id": "science-advances",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.science.org/doi/10.1126/sciadv.aea8731",
+      "title": "The Global Deep Sea Exploration Goals: A Representative Approach to Visually Observing the Deep Seafloor"
+    },
+    {
+      "source_id": "european-marine-board",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://zenodo.org/records/14928917",
+      "title": "Deep Sea Research and Management Needs"
+    },
+    {
+      "source_id": "congressional-research-service",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.congress.gov/crs-product/IF12283",
+      "title": "The Biodiversity Beyond National Jurisdiction (BBNJ) Agreement (or High Seas Treaty)"
+    },
+    {
+      "source_id": "science-advances",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.science.org/doi/10.1126/sciadv.adp8602",
+      "title": "How little we've seen: A visual coverage estimate of the deep seafloor"
+    },
+    {
+      "source_id": "current-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2023,
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(23)00534-1",
+      "title": "How many metazoan species live in the world's largest mineral exploration region?"
+    },
+    {
+      "source_id": "nature-reviews-earth-environment",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s43017-025-00750-2",
+      "title": "Antarctic Bottom Water in a changing climate"
+    },
+    {
+      "source_id": "nature-ecology-evolution",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s41559-025-02911-4",
+      "title": "Impacts of an industrial deep-sea mining trial on macrofaunal biodiversity"
+    },
+    {
+      "source_id": "biogeosciences",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.5194/bg-21-3373-2024",
+      "title": "The biological and preformed carbon pumps in perpetually slower and warmer oceans"
+    },
+    {
+      "source_id": "ioc-unesco",
+      "location": "text",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.ioc.unesco.org/en/articles/seabed-2030-announces-latest-progress-world-hydrography-day",
+      "title": "Seabed 2030 announces latest progress on World Hydrography Day"
+    }
+  ]
+}
