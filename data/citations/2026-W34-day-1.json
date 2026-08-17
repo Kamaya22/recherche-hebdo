@@ -1,0 +1,37 @@
+{
+  "week": "2026-W34",
+  "day": 1,
+  "theme": "The biology of aging",
+  "citations": [
+    {
+      "source_id": "cell",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2023,
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(22)01377-0",
+      "title": "Hallmarks of aging: An expanding universe"
+    },
+    {
+      "source_id": "jama-network-open",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2827753",
+      "title": "Global Healthspan-Lifespan Gaps Among 183 World Health Organization Member States"
+    },
+    {
+      "source_id": "nia-dab",
+      "location": "todays-readings",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://www.nia.nih.gov/research/dab",
+      "title": "Division of Aging Biology"
+    }
+  ]
+}
