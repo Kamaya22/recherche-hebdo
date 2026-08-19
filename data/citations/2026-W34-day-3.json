@@ -1,0 +1,77 @@
+{
+  "week": "2026-W34",
+  "day": 3,
+  "theme": "The biology of aging",
+  "citations": [
+    {
+      "source_id": "nature-reviews-molecular-cell-biology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12096892/",
+      "title": "Telomere function and regulation from mouse models to human ageing and disease"
+    },
+    {
+      "source_id": "nature-reviews-drug-discovery",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825315/",
+      "title": "Targeting DNA damage in ageing: towards supercharging DNA repair"
+    },
+    {
+      "source_id": "nature-reviews-genetics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s41576-024-00807-w",
+      "title": "Epigenetic ageing clocks: statistical methods and emerging computational challenges"
+    },
+    {
+      "source_id": "genome-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2013,
+      "url": null,
+      "title": "DNA methylation age of human tissues and cell types (Horvath, original pan-tissue epigenetic clock)"
+    },
+    {
+      "source_id": "aging-journal",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": null,
+      "title": "An epigenetic biomarker of aging for lifespan and healthspan (Levine et al., PhenoAge)"
+    },
+    {
+      "source_id": "aging-journal",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": null,
+      "title": "DNA methylation GrimAge strongly predicts lifespan and healthspan (Lu et al., GrimAge)"
+    },
+    {
+      "source_id": "elife",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://elifesciences.org/articles/73420",
+      "title": "DunedinPACE, a DNA methylation biomarker of the pace of aging"
+    }
+  ]
+}
