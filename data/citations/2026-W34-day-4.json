@@ -1,0 +1,37 @@
+{
+  "week": "2026-W34",
+  "day": 4,
+  "theme": "The biology of aging",
+  "citations": [
+    {
+      "source_id": "nature-reviews-endocrinology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9059418/",
+      "title": "Mitochondrial and metabolic dysfunction in ageing and age-related diseases"
+    },
+    {
+      "source_id": "seminars-in-cancer-biology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11625618/",
+      "title": "AMPK: the energy sensor at the crossroads of aging and cancer"
+    },
+    {
+      "source_id": "nature-aging",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10148951/",
+      "title": "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial"
+    }
+  ]
+}
