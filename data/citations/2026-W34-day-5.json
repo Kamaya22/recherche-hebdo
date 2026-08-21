@@ -1,0 +1,57 @@
+{
+  "week": "2026-W34",
+  "day": 5,
+  "theme": "The biology of aging",
+  "citations": [
+    {
+      "source_id": "aging-journal",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.aging-us.com/article/206235/text",
+      "title": "Influence of rapamycin on safety and healthspan metrics after one year: PEARL trial results"
+    },
+    {
+      "source_id": "eclinicalmedicine",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00121-5/fulltext",
+      "title": "Metformin and epigenetic age in non-diabetic older people with HIV in Madrid (METFORAGING): a double-blind, randomised, placebo-controlled, pilot trial"
+    },
+    {
+      "source_id": "nature-aging",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s43587-025-00964-5",
+      "title": "Towards a personalized approach in senolytic trials"
+    },
+    {
+      "source_id": "nature",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2009,
+      "url": null,
+      "title": "Rapamycin fed late in life extends lifespan in genetically heterogeneous mice"
+    },
+    {
+      "source_id": "afar-tame",
+      "location": "text",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://www.afar.org/tame-trial",
+      "title": "TAME - Targeting Aging with Metformin"
+    }
+  ]
+}
