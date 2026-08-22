@@ -1,0 +1,37 @@
+{
+  "week": "2026-W34",
+  "day": 6,
+  "theme": "The biology of aging",
+  "citations": [
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/d41586-025-03525-3",
+      "title": "Is ageing a disease? The debate that could reshape medicine"
+    },
+    {
+      "source_id": "biogerontology",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2026,
+      "url": "https://link.springer.com/article/10.1007/s10522-026-10422-3",
+      "title": "Aging is not a disease: an evolutionary and comparative biological reappraisal"
+    },
+    {
+      "source_id": "british-journal-clinical-pharmacology",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.15902",
+      "title": "Optimizing preclinical models of ageing for translation to clinical trials"
+    }
+  ]
+}
