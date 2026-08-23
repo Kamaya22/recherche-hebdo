@@ -1,0 +1,37 @@
+{
+  "week": "2026-W34",
+  "day": 7,
+  "theme": "The biology of aging",
+  "citations": [
+    {
+      "source_id": "nature-communications",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s41467-023-39786-7",
+      "title": "Challenges in developing Geroscience trials"
+    },
+    {
+      "source_id": "journal-nutrition-health-aging",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12310402/",
+      "title": "Advancing Geroscience Research – A Scoping Review of Regulatory Environments for Gerotherapeutics"
+    },
+    {
+      "source_id": "journals-gerontology-series-a",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://academic.oup.com/biomedgerontology/article/79/9/glae179/7744984",
+      "title": "Considering the Future of Geroscience: Goals and Opportunities Stemming From the Fourth Geroscience Summit"
+    }
+  ]
+}
