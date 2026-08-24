@@ -13,3 +13,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W32 — Antibiotic resistance — mechanisms, global surveillance, and the pipeline crisis
 - 2026-W33 — The deep ocean — what we know about Earth's least-explored biome and why it matters for climate and biodiversity
 - 2026-W34 — The biology of aging — why organisms age, what the major molecular hallmarks are, and what can realistically slow the process
+- 2026-W35 — Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems

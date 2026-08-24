@@ -1,0 +1,27 @@
+{
+  "week": "2026-W35",
+  "day": 1,
+  "theme": "Rewilding",
+  "citations": [
+    {
+      "source_id": "science",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2019,
+      "url": "https://www.science.org/doi/10.1126/science.aav5570",
+      "title": "Rewilding complex ecosystems"
+    },
+    {
+      "source_id": "annual-review-environment-resources",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-environ-111523-102359",
+      "title": "Rewilding: Ten Years of Evolution and Development"
+    }
+  ]
+}
