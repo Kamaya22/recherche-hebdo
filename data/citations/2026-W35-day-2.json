@@ -1,0 +1,47 @@
+{
+  "week": "2026-W35",
+  "day": 2,
+  "theme": "Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems",
+  "citations": [
+    {
+      "source_id": "current-biology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(23)00472-4",
+      "title": "Impacts of large herbivores on terrestrial ecosystems"
+    },
+    {
+      "source_id": "science-advances",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://www.science.org/doi/10.1126/sciadv.abc5439",
+      "title": "Outsized effect of predation: Wolves alter wetland creation and recolonization by killing ecosystem engineers"
+    },
+    {
+      "source_id": "global-ecology-and-conservation",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2351989425000290",
+      "title": "The strength of the Yellowstone trophic cascade after wolf reintroduction"
+    },
+    {
+      "source_id": "global-ecology-and-conservation",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2351989425005001",
+      "title": "Flawed analysis invalidates claim of a strong Yellowstone trophic cascade after wolf reintroduction: A comment on Ripple et al. (2025)"
+    }
+  ]
+}
