@@ -1,0 +1,37 @@
+{
+  "week": "2026-W35",
+  "day": 3,
+  "theme": "Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems",
+  "citations": [
+    {
+      "source_id": "biological-conservation",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0006320723003440",
+      "title": "A scoping review of the scientific evidence base for rewilding in Europe"
+    },
+    {
+      "source_id": "ecological-solutions-and-evidence",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.70090",
+      "title": "Using landscape biodiversity metrics to assess rewilding: A comparison of the Knepp Estate and an agricultural baseline at Boothby Wildland"
+    },
+    {
+      "source_id": "conservation-letters",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13157",
+      "title": "Rewilding in Europe: A Systematic Characterization and Classification of 89 Rewilding Projects"
+    }
+  ]
+}
