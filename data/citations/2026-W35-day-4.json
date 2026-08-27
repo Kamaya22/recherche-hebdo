@@ -1,0 +1,77 @@
+{
+  "week": "2026-W35",
+  "day": 4,
+  "theme": "Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems",
+  "citations": [
+    {
+      "source_id": "current-biology",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2016,
+      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(15)01575-4",
+      "title": "Rewilding is the new Pandora's box in conservation"
+    },
+    {
+      "source_id": "people-and-nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10769",
+      "title": "Unveiling human-wildlife interactions in the context of livestock grazing abandonment and the return of large carnivores, ungulates and vultures: A stakeholder perspective"
+    },
+    {
+      "source_id": "nature",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "paywall",
+      "year": 2005,
+      "url": "https://www.nature.com/articles/436913a",
+      "title": "Re-wilding North America"
+    },
+    {
+      "source_id": "biological-conservation",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2006,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0006320706001510",
+      "title": "Pleistocene Park: Does re-wilding North America represent sound conservation for the 21st century?"
+    },
+    {
+      "source_id": "trends-in-ecology-evolution",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2009,
+      "url": "https://www.cell.com/trends/ecology-evolution/comments/S0169-5347(09)00201-8",
+      "title": "Novel ecosystems: implications for conservation and restoration"
+    },
+    {
+      "source_id": "global-ecology-and-conservation",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2351989425005001",
+      "title": "Flawed analysis invalidates claim of a strong Yellowstone trophic cascade after wolf reintroduction: A comment on Ripple et al. (2025)"
+    },
+    {
+      "source_id": "ambio",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1007/s13280-025-02238-1",
+      "title": "Rewilding relationships: Principles for forging relationships in social-ecological systems"
+    }
+  ]
+}
