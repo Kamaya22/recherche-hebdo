@@ -1,0 +1,47 @@
+{
+  "week": "2026-W35",
+  "day": 6,
+  "theme": "Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems",
+  "citations": [
+    {
+      "source_id": "ambio",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11300785/",
+      "title": "Economics of rewilding"
+    },
+    {
+      "source_id": "conservation-letters",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13090",
+      "title": "Rewilding and Indigenous Community-Led Land Care"
+    },
+    {
+      "source_id": "conservation-letters",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13107",
+      "title": "Rewilding and Indigenous-Led Land Care Are Not Compatible Ideas"
+    },
+    {
+      "source_id": "iucn",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://portals.iucn.org/library/sites/library/files/documents/2025-032-En.pdf",
+      "title": "Guidelines for Rewilding"
+    }
+  ]
+}
