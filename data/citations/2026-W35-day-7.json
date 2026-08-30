@@ -1,0 +1,27 @@
+{
+  "week": "2026-W35",
+  "day": 7,
+  "theme": "Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems",
+  "citations": [
+    {
+      "source_id": "people-and-nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.70100",
+      "title": "Five critical questions we should ask of rewilding projects—And that social science can help us answer"
+    },
+    {
+      "source_id": "cambridge-prisms-extinction",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/rewilding-for-resilience-a-call-to-integrate-quantitative-and-qualitative-approaches-for-monitoring-rewilding/1038BC2EB006D1FC12729B4459DA6B0E",
+      "title": "Rewilding for resilience: A call to integrate quantitative and qualitative approaches for monitoring rewilding"
+    }
+  ]
+}
