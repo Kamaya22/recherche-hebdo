@@ -1,0 +1,37 @@
+{
+  "week": "2026-W36",
+  "day": 1,
+  "theme": "The psychology of conspiracy beliefs",
+  "citations": [
+    {
+      "source_id": "european-journal-social-psychology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6282974/",
+      "title": "Belief in conspiracy theories: Basic principles of an emerging research domain"
+    },
+    {
+      "source_id": "frontiers-in-psychology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9945548/",
+      "title": "Contemporary trends in psychological research on conspiracy beliefs. A systematic review"
+    },
+    {
+      "source_id": "pnas-nexus",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12203515/",
+      "title": "Information from social ties predicts conspiracy beliefs: Evidence from the attempted assassination of Donald Trump"
+    }
+  ]
+}
