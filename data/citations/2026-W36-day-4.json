@@ -1,0 +1,47 @@
+{
+  "week": "2026-W36",
+  "day": 4,
+  "theme": "The psychology of conspiracy beliefs",
+  "citations": [
+    {
+      "source_id": "bmc-public-health",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11606073/",
+      "title": "Conspiracy narratives and vaccine hesitancy: a scoping review of prevalence, impact, and interventions"
+    },
+    {
+      "source_id": "terrorism-and-political-violence",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/b312b549-4699-4225-8eed-a165f21f36e2/content",
+      "title": "Linking Conspiracy Beliefs with Violence: A Scoping Review of the Empirical Literature"
+    },
+    {
+      "source_id": "political-psychology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/d5c18ccf-4594-4623-85b1-e897ba8b4333/content",
+      "title": "Conspiracy beliefs and democratic backsliding: Longitudinal effects of election conspiracy beliefs on criticism of democracy and support for authoritarianism during political contests"
+    },
+    {
+      "source_id": "public-opinion-quarterly",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": null,
+      "title": "Conspiracy beliefs and perceptions of electoral integrity: Cross-national evidence from 29 countries"
+    }
+  ]
+}
