@@ -1,0 +1,57 @@
+{
+  "week": "2026-W36",
+  "day": 5,
+  "theme": "The psychology of conspiracy beliefs",
+  "citations": [
+    {
+      "source_id": "british-journal-of-social-psychology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2026,
+      "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.70037",
+      "title": "Testing the socio-functional model: Does precarity cause conspiracy belief?"
+    },
+    {
+      "source_id": "british-journal-of-social-psychology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12704043/",
+      "title": "Longitudinal analysis shows possible distinct patterns of associations between conspiracy beliefs and either institutional distrust or the sense of precarity"
+    },
+    {
+      "source_id": "european-journal-social-psychology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://kar.kent.ac.uk/112466/1/Nera%20Sutton%20AAM%20EJSP%202025.pdf",
+      "title": "Convictions or Plausibility Judgements? The Ambiguity of Self-Reported Agreement With Conspiracy Theories"
+    },
+    {
+      "source_id": "psyarxiv",
+      "location": "text",
+      "evidence_type": "preprint",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": null,
+      "title": "Half the Test: A Response to Marques et al.'s (2026) \"Testing the socio-functional model\""
+    },
+    {
+      "source_id": "social-psychological-personality-science",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": null,
+      "title": "\"Just Because It's a Conspiracy Theory Doesn't Mean They're Not Out to Get You\": Differentiating the Correlates of Judgments of Plausible Versus Implausible Conspiracy Theories"
+    }
+  ]
+}
