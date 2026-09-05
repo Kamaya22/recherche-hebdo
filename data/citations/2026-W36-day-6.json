@@ -1,0 +1,57 @@
+{
+  "week": "2026-W36",
+  "day": 6,
+  "theme": "The psychology of conspiracy beliefs",
+  "citations": [
+    {
+      "source_id": "european-journal-social-psychology",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2026,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70041",
+      "title": "The Effectiveness of Interventions Addressing Conspiracy Beliefs: A Meta-Analysis"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0280902",
+      "title": "The efficacy of interventions in reducing belief in conspiracy theories: A systematic review"
+    },
+    {
+      "source_id": "science-advances",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.science.org/doi/10.1126/sciadv.abo6254",
+      "title": "Psychological inoculation improves resilience against misinformation on social media"
+    },
+    {
+      "source_id": "humanities-social-sciences-communications",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://www.nature.com/articles/s41599-019-0279-9",
+      "title": "Fake news game confers psychological resistance against online misinformation"
+    },
+    {
+      "source_id": "psychonomic-bulletin-review",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.3758/s13423-025-02827-x",
+      "title": "Re-examining the bad news game: No evidence of improved discrimination of Indian true and fake news headlines"
+    }
+  ]
+}
