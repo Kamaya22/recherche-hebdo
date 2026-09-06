@@ -1,0 +1,27 @@
+{
+  "week": "2026-W36",
+  "day": 7,
+  "theme": "The psychology of conspiracy beliefs",
+  "citations": [
+    {
+      "source_id": "psychological-bulletin",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://kar.kent.ac.uk/107924/3/Main%20text_CLEAN.pdf",
+      "title": "Reasons to believe: A systematic review and meta-analytic synthesis of the motives associated with conspiracy beliefs"
+    },
+    {
+      "source_id": "nature-reviews-psychology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://kar.kent.ac.uk/98282/1/Hornsey_v3.pdf",
+      "title": "Individual, intergroup and nation-level influences on belief in conspiracy theories"
+    }
+  ]
+}
