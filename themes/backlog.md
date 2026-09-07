@@ -3,7 +3,6 @@
 L'agent prend chaque lundi le **premier thème `validé`** de cette liste (sinon le premier `proposé`).
 Pour piloter : changer `proposé` → `validé`, réordonner les lignes, supprimer ou ajouter librement.
 
-- [proposé] Exoplanet atmospheres and the search for biosignatures — how astronomers read distant worlds from spectral lines
 - [proposé] Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested
 - [proposé] Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet
 - [proposé] The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work

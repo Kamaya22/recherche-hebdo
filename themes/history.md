@@ -15,3 +15,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W34 — The biology of aging — why organisms age, what the major molecular hallmarks are, and what can realistically slow the process
 - 2026-W35 — Rewilding — the science and controversies behind returning large predators and keystone species to degraded ecosystems
 - 2026-W36 — The psychology of conspiracy beliefs — cognitive and social mechanisms, and what research says about counter-messaging
+- 2026-W37 — Exoplanet atmospheres and the search for biosignatures — how astronomers read distant worlds from spectral lines

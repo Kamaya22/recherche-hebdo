@@ -1,0 +1,37 @@
+{
+  "week": "2026-W37",
+  "day": 1,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "pnas",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2416188122",
+      "title": "Prospects for detecting signs of life on exoplanets in the JWST era"
+    },
+    {
+      "source_id": "nature-astronomy",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s41550-024-02292-x",
+      "title": "A benchmark JWST near-infrared spectrum for the exoplanet WASP-39 b"
+    },
+    {
+      "source_id": "nasa-science-exoplanets",
+      "location": "todays-readings",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/",
+      "title": "How We Find and Characterize"
+    }
+  ]
+}
