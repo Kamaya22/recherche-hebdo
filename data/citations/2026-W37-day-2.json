@@ -1,0 +1,37 @@
+{
+  "week": "2026-W37",
+  "day": 2,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "esa-science",
+      "location": "todays-readings",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Ariel/Studying_exoplanet_atmospheres_with_Ariel",
+      "title": "Studying exoplanet atmospheres with Ariel"
+    },
+    {
+      "source_id": "astronomical-journal",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://iopscience.iop.org/article/10.3847/1538-3881/ad5833",
+      "title": "Toward Robust Corrections for Stellar Contamination in JWST Exoplanet Transmission Spectra"
+    },
+    {
+      "source_id": "living-reviews-computational-astrophysics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://link.springer.com/article/10.1007/s41115-026-00031-9",
+      "title": "Computational challenges in exoplanet atmospheric retrieval"
+    }
+  ]
+}
