@@ -1,0 +1,37 @@
+{
+  "week": "2026-W37",
+  "day": 3,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "pnas",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2416190122",
+      "title": "A first look at rocky exoplanets with JWST"
+    },
+    {
+      "source_id": "astronomy-astrophysics",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.aanda.org/articles/aa/full_html/2026/01/aa52192-24/aa52192-24.html",
+      "title": "The atmospheric composition of TOI-270 d"
+    },
+    {
+      "source_id": "nature-astronomy",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/s41550-026-02806-9",
+      "title": "No thick atmosphere around TRAPPIST-1 b and c from JWST thermal phase curves"
+    }
+  ]
+}
