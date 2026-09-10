@@ -1,0 +1,47 @@
+{
+  "week": "2026-W37",
+  "day": 4,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "astrophysical-journal-letters",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/adc1c8",
+      "title": "New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI"
+    },
+    {
+      "source_id": "astronomy-astrophysics",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.aanda.org/articles/aa/full_html/2025/08/aa55580-25/aa55580-25.html",
+      "title": "Insufficient evidence for DMS and DMDS in the atmosphere of K2-18 b"
+    },
+    {
+      "source_id": "astrobiology-journal",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2018,
+      "url": "https://journals.sagepub.com/doi/full/10.1089/ast.2017.1727",
+      "title": "Exoplanet Biosignatures: Understanding Oxygen as a Biosignature in the Context of Its Environment"
+    },
+    {
+      "source_id": "astronomical-journal",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://iopscience.iop.org/article/10.3847/1538-3881/ae0338",
+      "title": "K2-18b Does Not Meet the Standards of Evidence for Life"
+    }
+  ]
+}
