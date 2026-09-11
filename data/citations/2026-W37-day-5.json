@@ -1,0 +1,37 @@
+{
+  "week": "2026-W37",
+  "day": 5,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "nature-reviews-physics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s42254-025-00839-z",
+      "title": "Data challenges and prospects of high-resolution spectroscopy of exoplanets"
+    },
+    {
+      "source_id": "mnras",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://academic.oup.com/mnras/article/541/4/3664/8213525",
+      "title": "Life on the edge: using planetary context to enhance biosignatures and avoid false positives"
+    },
+    {
+      "source_id": "nasa-science-hwo",
+      "location": "todays-readings",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://science.nasa.gov/astrophysics/programs/habitable-worlds-observatory/",
+      "title": "Habitable Worlds Observatory"
+    }
+  ]
+}
