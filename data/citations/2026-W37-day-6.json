@@ -1,0 +1,47 @@
+{
+  "week": "2026-W37",
+  "day": 6,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://www.nature.com/articles/s41586-021-03804-9",
+      "title": "Call for a framework for reporting evidence for life beyond Earth"
+    },
+    {
+      "source_id": "national-academies-press",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.nationalacademies.org/read/26621/",
+      "title": "Independent Review of the Community Report from the Biosignature Standards of Evidence Workshop"
+    },
+    {
+      "source_id": "astrobiology-journal",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://journals.sagepub.com/doi/10.1177/15311074251387636",
+      "title": "Communicating Discoveries in the Search for Life in the Universe Workshop Report"
+    },
+    {
+      "source_id": "national-academies-press",
+      "location": "text",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nationalacademies.org/read/26141/",
+      "title": "Pathways to Discovery in Astronomy and Astrophysics for the 2020s"
+    }
+  ]
+}
