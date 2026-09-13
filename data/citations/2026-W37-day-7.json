@@ -1,0 +1,27 @@
+{
+  "week": "2026-W37",
+  "day": 7,
+  "theme": "Exoplanet atmospheres and the search for biosignatures",
+  "citations": [
+    {
+      "source_id": "astrophysical-journal-letters",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ae5dcc",
+      "title": "A Systematic Search for Trace Molecules in the Atmosphere of Exoplanet K2-18 b"
+    },
+    {
+      "source_id": "astronomy-astrophysics",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.aanda.org/articles/aa/full_html/2026/06/aa57718-25/aa57718-25.html",
+      "title": "The atmospheric composition of the sub-Neptune K2-18 b and insights into its formation"
+    }
+  ]
+}
