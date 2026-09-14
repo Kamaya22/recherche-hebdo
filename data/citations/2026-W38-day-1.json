@@ -1,0 +1,67 @@
+{
+  "week": "2026-W38",
+  "day": 1,
+  "theme": "Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested",
+  "citations": [
+    {
+      "source_id": "who-post-covid-factsheet",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)",
+      "title": "Post COVID-19 condition (long COVID)"
+    },
+    {
+      "source_id": "nature-reviews-microbiology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s41579-022-00846-2",
+      "title": "Long COVID: major findings, mechanisms and recommendations"
+    },
+    {
+      "source_id": "cdc-long-covid",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://www.cdc.gov/long-covid/about/index.html",
+      "title": "Long COVID Basics"
+    },
+    {
+      "source_id": "nature-reviews-microbiology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s41579-022-00846-2",
+      "title": "Long COVID: major findings, mechanisms and recommendations"
+    },
+    {
+      "source_id": "cdc-long-covid",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.cdc.gov/long-covid/about/index.html",
+      "title": "Household Pulse Survey — Long COVID prevalence estimates"
+    },
+    {
+      "source_id": "who-post-covid-factsheet",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)",
+      "title": "Post COVID-19 condition (long COVID)"
+    }
+  ]
+}
