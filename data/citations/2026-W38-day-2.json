@@ -1,0 +1,67 @@
+{
+  "week": "2026-W38",
+  "day": 2,
+  "theme": "Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested",
+  "citations": [
+    {
+      "source_id": "infectious-diseases-immunity",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://mednexus.org/doi/abs/10.1097/ID9.0000000000000163",
+      "title": "Viral persistence in long COVID: Research advances and treatment strategies"
+    },
+    {
+      "source_id": "jaci",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.jacionline.org/article/S0091-6749(25)00171-X/fulltext",
+      "title": "Autoimmunity in long COVID"
+    },
+    {
+      "source_id": "ijms",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.3390/ijms27010433",
+      "title": "Vascular Complications of Long COVID—From Endothelial Dysfunction to Systemic Thrombosis: A Systematic Review"
+    },
+    {
+      "source_id": "infectious-diseases-immunity",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://mednexus.org/doi/abs/10.1097/ID9.0000000000000163",
+      "title": "Viral persistence in long COVID: Research advances and treatment strategies"
+    },
+    {
+      "source_id": "jaci",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.jacionline.org/article/S0091-6749(25)00171-X/fulltext",
+      "title": "Autoimmunity in long COVID"
+    },
+    {
+      "source_id": "ijms",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.3390/ijms27010433",
+      "title": "Vascular Complications of Long COVID—From Endothelial Dysfunction to Systemic Thrombosis: A Systematic Review"
+    }
+  ]
+}
