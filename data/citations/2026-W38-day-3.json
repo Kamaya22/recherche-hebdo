@@ -1,0 +1,87 @@
+{
+  "week": "2026-W38",
+  "day": 3,
+  "theme": "Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested",
+  "citations": [
+    {
+      "source_id": "psychiatry-clinical-neurosciences",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13855",
+      "title": "Neuroimmune pathophysiology of long COVID"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "todays-readings",
+      "evidence_type": "cohort",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0341278",
+      "title": "Shared autonomic phenotype of long COVID and myalgic encephalomyelitis/chronic fatigue syndrome"
+    },
+    {
+      "source_id": "frontiers-cellular-infection-microbiology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1501949/full",
+      "title": "Connecting dots of long COVID-19 pathogenesis: a vagus nerve-hypothalamic-pituitary-adrenal-mitochondrial axis dysfunction"
+    },
+    {
+      "source_id": "psychiatry-clinical-neurosciences",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pcn.13855",
+      "title": "Neuroimmune pathophysiology of long COVID"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "text",
+      "evidence_type": "cohort",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0341278",
+      "title": "Shared autonomic phenotype of long COVID and myalgic encephalomyelitis/chronic fatigue syndrome"
+    },
+    {
+      "source_id": "frontiers-cellular-infection-microbiology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1501949/full",
+      "title": "Connecting dots of long COVID-19 pathogenesis: a vagus nerve-hypothalamic-pituitary-adrenal-mitochondrial axis dysfunction"
+    },
+    {
+      "source_id": "brain-communications",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://academic.oup.com/braincomms/article/7/5/fcaf337/8258475",
+      "title": "Systemic increase of AMPA receptors associated with cognitive impairment of long COVID"
+    },
+    {
+      "source_id": "jaci",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.jacionline.org/article/S0091-6749(25)01128-5/fulltext",
+      "title": "Autonomic dysfunction and vasoregulation in long COVID-19 are linked to anti-GPCR autoantibodies"
+    }
+  ]
+}
