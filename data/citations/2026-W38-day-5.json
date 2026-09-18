@@ -1,0 +1,77 @@
+{
+  "week": "2026-W38",
+  "day": 5,
+  "theme": "Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested",
+  "citations": [
+    {
+      "source_id": "healthcare-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.mdpi.com/2227-9032/10/5/898",
+      "title": "The Updated NICE Guidance Exposed the Serious Flaws in CBT and Graded Exercise Therapy Trials for ME/CFS"
+    },
+    {
+      "source_id": "brain-behavior-immunity-integrative",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2949834123000211",
+      "title": "What Long COVID investigators can learn from four decades of ME/CFS research"
+    },
+    {
+      "source_id": "eclinicalmedicine",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1016/j.eclinm.2024.102756",
+      "title": "Psychological factors associated with Long COVID: a systematic review and meta-analysis"
+    },
+    {
+      "source_id": "healthcare-mdpi",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.mdpi.com/2227-9032/10/5/898",
+      "title": "The Updated NICE Guidance Exposed the Serious Flaws in CBT and Graded Exercise Therapy Trials for ME/CFS"
+    },
+    {
+      "source_id": "brain-behavior-immunity-integrative",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2949834123000211",
+      "title": "What Long COVID investigators can learn from four decades of ME/CFS research"
+    },
+    {
+      "source_id": "eclinicalmedicine",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1016/j.eclinm.2024.102756",
+      "title": "Psychological factors associated with Long COVID: a systematic review and meta-analysis"
+    },
+    {
+      "source_id": "nice-guidance",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nice.org.uk/guidance/ng188/chapter/1-Identification",
+      "title": "COVID-19 rapid guideline: managing the long-term effects of COVID-19 (NG188)"
+    }
+  ]
+}
