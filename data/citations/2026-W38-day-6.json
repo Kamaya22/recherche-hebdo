@@ -1,0 +1,67 @@
+{
+  "week": "2026-W38",
+  "day": 6,
+  "theme": "Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested",
+  "citations": [
+    {
+      "source_id": "lancet-infectious-diseases",
+      "location": "todays-readings",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(25)00073-8/fulltext",
+      "title": "Nirmatrelvir–ritonavir versus placebo–ritonavir in individuals with long COVID in the USA (PAX LC): a double-blind, randomised, placebo-controlled, phase 2, decentralised trial"
+    },
+    {
+      "source_id": "archives-physical-medicine-rehabilitation",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://www.archives-pmr.org/article/S0003-9993(25)00501-5/fulltext",
+      "title": "Prevalence and Impact of Postexertional Malaise on Recovery in Adults With Post-COVID-19 Condition: A Systematic Review With Meta-analysis"
+    },
+    {
+      "source_id": "npj-primary-care-respiratory-medicine",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s41533-025-00460-8",
+      "title": "Economic burden of long COVID: macroeconomic, cost-of-illness and microeconomic impacts"
+    },
+    {
+      "source_id": "lancet-infectious-diseases",
+      "location": "text",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2023,
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext",
+      "title": "Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial"
+    },
+    {
+      "source_id": "annals-internal-medicine",
+      "location": "text",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2026,
+      "url": "https://www.acpjournals.org/doi/10.7326/ANNALS-25-03959",
+      "title": "The Effect of Fluvoxamine and Metformin for Fatigue in Patients With Long COVID: An Adaptive Randomized Trial"
+    },
+    {
+      "source_id": "recover-covid-initiative",
+      "location": "text",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://recovercovid.org/news/recovers-mid-year-milestones-look-2025-progress",
+      "title": "RECOVER's mid-year milestones: A look at 2025 progress"
+    }
+  ]
+}
