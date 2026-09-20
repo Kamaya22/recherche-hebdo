@@ -1,0 +1,27 @@
+{
+  "week": "2026-W38",
+  "day": 7,
+  "theme": "Long COVID — the biology of post-viral illness, diagnostic challenges, and what treatments are being tested",
+  "citations": [
+    {
+      "source_id": "national-academies-press",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://nap.nationalacademies.org/catalog/27756/long-term-health-effects-of-covid-19-disability-and-function",
+      "title": "Long-Term Health Effects of COVID-19: Disability and Function Following SARS-CoV-2 Infection"
+    },
+    {
+      "source_id": "emerging-infectious-diseases",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://wwwnc.cdc.gov/eid/article/31/14/25-1187_article",
+      "title": "Progress Toward Understanding Infection-Associated Chronic Conditions and Illnesses"
+    }
+  ]
+}
