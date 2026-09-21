@@ -1,0 +1,37 @@
+{
+  "week": "2026-W39",
+  "day": 1,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "annual-review-environment-resources",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-environ-112321-081911",
+      "title": "Solar Geoengineering: History, Methods, Governance, Prospects"
+    },
+    {
+      "source_id": "national-academies-press",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nationalacademies.org/read/25762/chapter/1",
+      "title": "Reflecting Sunlight: Recommendations for Solar Geoengineering Research and Research Governance"
+    },
+    {
+      "source_id": "unep",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.unep.org/resources/report/Solar-Radiation-Modification-research-deployment",
+      "title": "One Atmosphere: An Independent Expert Review on Solar Radiation Modification Research and Deployment"
+    }
+  ]
+}

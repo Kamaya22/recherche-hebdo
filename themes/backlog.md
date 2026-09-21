@@ -3,7 +3,6 @@
 L'agent prend chaque lundi le **premier thème `validé`** de cette liste (sinon le premier `proposé`).
 Pour piloter : changer `proposé` → `validé`, réordonner les lignes, supprimer ou ajouter librement.
 
-- [proposé] Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet
 - [proposé] The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work
 - [proposé] Gravitational-wave astronomy — how detectors like LIGO opened a new window on the universe and what they've found
 - [proposé] The regeneration paradox — why some animals can regrow limbs and organs and humans (mostly) cannot
