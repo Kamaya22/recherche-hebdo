@@ -1,0 +1,47 @@
+{
+  "week": "2026-W39",
+  "day": 2,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "environmental-science-atmospheres",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/ea/d3ea00134b",
+      "title": "The potential environmental and climate impacts of stratospheric aerosol injection: a review"
+    },
+    {
+      "source_id": "usgs-volcano-watch",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2011,
+      "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-pinatubo-effect-can-geoengineering-mimic-volcanic-processes",
+      "title": "Volcano Watch — The Pinatubo Effect: Can geoengineering mimic volcanic processes?"
+    },
+    {
+      "source_id": "noaa-csl-news",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://csl.noaa.gov/news/2023/390_1107.html",
+      "title": "For Stratospheric Aerosol Injection, All Strategies Are Not Created Equal"
+    },
+    {
+      "source_id": "atmospheric-chemistry-and-physics",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://acp.copernicus.org/articles/23/13665/2023/",
+      "title": "Injection strategy – a driver of atmospheric circulation and ozone response to stratospheric aerosol geoengineering"
+    }
+  ]
+}
