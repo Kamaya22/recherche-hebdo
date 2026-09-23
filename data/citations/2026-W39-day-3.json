@@ -1,0 +1,57 @@
+{
+  "week": "2026-W39",
+  "day": 3,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "atmospheric-chemistry-and-physics",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://acp.copernicus.org/articles/21/10039/2021/",
+      "title": "Identifying the sources of uncertainty in climate model simulations of solar radiation modification with the G6sulfur and G6solar Geoengineering Model Intercomparison Project (GeoMIP) simulations"
+    },
+    {
+      "source_id": "wmo",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://csl.noaa.gov/assessments/ozone/2022/downloads/Chapter6_2022OzoneAssessment.pdf",
+      "title": "Chapter 6 — Stratospheric Aerosol Injection and its Potential Effect on the Stratospheric Ozone Layer, in Scientific Assessment of Ozone Depletion: 2022"
+    },
+    {
+      "source_id": "environmental-research-letters",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae6714",
+      "title": "Energetic constraints on tropical precipitation changes under stratospheric aerosol geoengineering: a topical review"
+    },
+    {
+      "source_id": "environmental-research-letters",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://iopscience.iop.org/article/10.1088/1748-9326/9/1/014001",
+      "title": "Weakened tropical circulation and reduced precipitation in response to geoengineering"
+    },
+    {
+      "source_id": "npj-climate-atmospheric-science",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s41612-024-00875-z",
+      "title": "South Asian Summer Monsoon under stratospheric aerosol intervention"
+    }
+  ]
+}
