@@ -1,0 +1,37 @@
+{
+  "week": "2026-W39",
+  "day": 4,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "nature-news",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/d41586-025-01389-1",
+      "title": "Controversial geoengineering projects to test Earth-cooling tech funded by UK agency"
+    },
+    {
+      "source_id": "science",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2024,
+      "url": "https://www.science.org/doi/10.1126/science.adn2853",
+      "title": "Do small outdoor geoengineering experiments require governance?"
+    },
+    {
+      "source_id": "epa-us",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.epa.gov/so2-pollution/epa-seeks-information-make-sunsets",
+      "title": "EPA Seeks Information from Make Sunsets"
+    }
+  ]
+}
