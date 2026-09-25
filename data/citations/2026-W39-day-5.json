@@ -1,0 +1,37 @@
+{
+  "week": "2026-W39",
+  "day": 5,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "earths-future",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000735",
+      "title": "The Risk of Termination Shock From Solar Geoengineering"
+    },
+    {
+      "source_id": "earths-future",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000445",
+      "title": "Mitigation Deterrence and the \"Moral Hazard\" of Solar Radiation Management"
+    },
+    {
+      "source_id": "global-sustainability",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://www.cambridge.org/core/journals/global-sustainability/article/hidden-injustices-of-advancing-solar-geoengineering-research/F61C5DCBCA02E18F66CAC7E45CC76C57",
+      "title": "The Hidden Injustices of Advancing Solar Geoengineering Research"
+    }
+  ]
+}
