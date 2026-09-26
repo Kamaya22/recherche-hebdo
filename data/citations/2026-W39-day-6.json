@@ -1,0 +1,37 @@
+{
+  "week": "2026-W39",
+  "day": 6,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "nature-reviews-earth-environment",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2020,
+      "url": "https://www.nature.com/articles/s43017-019-0004-7",
+      "title": "Uncertainty and the basis for confidence in solar geoengineering research"
+    },
+    {
+      "source_id": "jgr-atmospheres",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2021,
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033438",
+      "title": "Aerosol Dynamics in the Near Field of the SCoPEx Stratospheric Balloon Experiment"
+    },
+    {
+      "source_id": "scientific-reports",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://www.nature.com/articles/srep39169",
+      "title": "Detecting sulphate aerosol geoengineering with different methods"
+    }
+  ]
+}
