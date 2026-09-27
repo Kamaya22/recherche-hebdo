@@ -1,0 +1,47 @@
+{
+  "week": "2026-W39",
+  "day": 7,
+  "theme": "Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet",
+  "citations": [
+    {
+      "source_id": "transnational-environmental-law",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://www.cambridge.org/core/journals/transnational-environmental-law/article/towards-a-nonuse-regime-on-solar-geoengineering-lessons-from-international-law-and-governance/83A71F8002DC88049D9575790743D3A1",
+      "title": "Towards a Non-Use Regime on Solar Geoengineering: Lessons from International Law and Governance"
+    },
+    {
+      "source_id": "royal-society",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://royalsociety.org/-/media/policy/projects/solar-radiation-modification/solar-radiation-modification-policy-briefing.pdf",
+      "title": "Solar radiation modification: Policy briefing"
+    },
+    {
+      "source_id": "congressional-research-service",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.congress.gov/crs-product/R47551",
+      "title": "Solar Geoengineering and Climate Change"
+    },
+    {
+      "source_id": "unep",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": null,
+      "title": "Draft UN Environment Assembly resolution on solar radiation modification (withdrawn)"
+    }
+  ]
+}
