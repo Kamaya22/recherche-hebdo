@@ -34,8 +34,15 @@ PEER_LABEL = {True: "peer-reviewed", False: "not peer-reviewed"}
 def load_registry():
     reg = {}
     with open(REGISTRY, encoding="utf-8-sig", newline="") as f:
-        for row in csv.DictReader(f):
+        reader = csv.DictReader(f)
+        for row in reader:
             sid = (row.get("id") or "").strip()
+            if None in row:  # more fields than the header: unquoted comma
+                raise ValueError(
+                    f"registry.csv line {reader.line_num} ({sid}): "
+                    f"{len(reader.fieldnames) + len(row[None])} fields, "
+                    f"expected {len(reader.fieldnames)} — quote fields containing commas"
+                )
             if sid:
                 reg[sid] = {k: (v or "").strip() for k, v in row.items()}
     return reg
