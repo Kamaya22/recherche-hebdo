@@ -1,0 +1,14 @@
+# Week theme: The sociology of loneliness
+
+**The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work**
+
+Loneliness has moved from a private, almost taboo experience to a named public-health priority: in 2025 the World Health Organization's Commission on Social Connection concluded that roughly one in six people worldwide feel lonely, linked the condition to some 871,000 deaths a year, and found it hits adolescents and residents of lower-income countries hardest — not, as the stereotype has it, only the elderly living alone. Decades of epidemiological work, starting with Julianne Holt-Lunstad's influential meta-analyses, have shown that weak social ties predict earlier death about as strongly as well-established risks like obesity or physical inactivity. Yet loneliness is not simply a personal failing or a fixed psychological trait: sociologists increasingly treat it as a socially patterned phenomenon, shaped by household structure, labor markets, urban design, digital technology, and welfare regimes that differ sharply across countries and historical periods. This week moves beyond the popular "loneliness epidemic" narrative to ask what the evidence actually supports: is loneliness really rising, and if so why; what does it do to the body and mind; and which interventions — from social prescribing to redesigning cities — have real evidence behind them, as opposed to good intentions.
+
+**Tentative 7-day outline** (a guide, adjusted as the week's research develops):
+- **Day 1 — Panorama**: what loneliness and social isolation are (and how they differ), current global prevalence, and why the field increasingly treats this as a sociological as well as psychological problem.
+- **Day 2 — Mechanisms**: the biological and psychological pathways linking social disconnection to physical and mental illness (stress physiology, immune function, cognitive-behavioral loops).
+- **Day 3 — Key findings**: what the major cohort studies and meta-analyses show about mortality, cardiovascular disease, dementia, and mental health risk.
+- **Day 4 — State of the art / is it really rising**: trends over time and across countries — what changed before, during, and after the COVID-19 pandemic, and where the "epidemic" framing is and isn't supported by data.
+- **Day 5 — Controversies and open debates**: measurement problems, the loneliness-vs-isolation distinction, and disagreement over how much technology and social media are to blame.
+- **Day 6 — Applications**: what interventions have actually been tested — social prescribing, befriending programs, urban and housing design, workplace and school policy — and how strong the evidence really is.
+- **Day 7 — Synthesis**: what is settled versus genuinely open, and pointers for going deeper.

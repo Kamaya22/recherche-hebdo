@@ -1,0 +1,67 @@
+{
+  "week": "2026-W40",
+  "day": 1,
+  "theme": "The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work",
+  "citations": [
+    {
+      "source_id": "who-commission-social-connection",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.who.int/publications/i/item/978240112360",
+      "title": "From Loneliness to Social Connection — Charting a Path to Healthier Societies"
+    },
+    {
+      "source_id": "nature-reviews-psychology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s44159-022-00124-1",
+      "title": "Loneliness across time and space"
+    },
+    {
+      "source_id": "perspectives-psychological-science",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2015,
+      "url": "https://journals.sagepub.com/doi/10.1177/1745691614568352",
+      "title": "Loneliness and Social Isolation as Risk Factors for Mortality: A Meta-Analytic Review"
+    },
+    {
+      "source_id": "perspectives-psychological-science",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2015,
+      "url": "https://journals.sagepub.com/doi/10.1177/1745691614568352",
+      "title": "Loneliness and Social Isolation as Risk Factors for Mortality: A Meta-Analytic Review"
+    },
+    {
+      "source_id": "who-commission-social-connection",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.who.int/publications/i/item/978240112360",
+      "title": "From Loneliness to Social Connection — Charting a Path to Healthier Societies"
+    },
+    {
+      "source_id": "nature-reviews-psychology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s44159-022-00124-1",
+      "title": "Loneliness across time and space"
+    }
+  ]
+}
