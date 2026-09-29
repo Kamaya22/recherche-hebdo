@@ -1,0 +1,77 @@
+{
+  "week": "2026-W40",
+  "day": 2,
+  "theme": "The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work",
+  "citations": [
+    {
+      "source_id": "psychological-bulletin",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5130107/",
+      "title": "Toward a Neurology of Loneliness"
+    },
+    {
+      "source_id": "neuropsychopharmacology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nature.com/articles/s41386-021-01058-7",
+      "title": "Neurobiology of loneliness: a systematic review"
+    },
+    {
+      "source_id": "psychoneuroendocrinology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://midus.wisc.edu/wp-content/uploads/Pdfs/2292.pdf",
+      "title": "Endocrine and immunomodulatory effects of social isolation and loneliness across adulthood"
+    },
+    {
+      "source_id": "psychological-bulletin",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5130107/",
+      "title": "Toward a Neurology of Loneliness"
+    },
+    {
+      "source_id": "neuropsychopharmacology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nature.com/articles/s41386-021-01058-7",
+      "title": "Neurobiology of loneliness: a systematic review"
+    },
+    {
+      "source_id": "psychoneuroendocrinology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://midus.wisc.edu/wp-content/uploads/Pdfs/2292.pdf",
+      "title": "Endocrine and immunomodulatory effects of social isolation and loneliness across adulthood"
+    },
+    {
+      "source_id": "psychoneuroendocrinology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2015,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306453015002358",
+      "title": "Loneliness, eudaimonia, and the human conserved transcriptional response to adversity"
+    }
+  ]
+}
