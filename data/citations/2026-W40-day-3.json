@@ -1,0 +1,87 @@
+{
+  "week": "2026-W40",
+  "day": 3,
+  "theme": "The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work",
+  "citations": [
+    {
+      "source_id": "nature-human-behaviour",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://doi.org/10.1038/s41562-023-01617-6",
+      "title": "A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality"
+    },
+    {
+      "source_id": "heart-bmj",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://doi.org/10.1136/heartjnl-2015-308790",
+      "title": "Loneliness and social isolation as risk factors for coronary heart disease and stroke: systematic review and meta-analysis of longitudinal observational studies"
+    },
+    {
+      "source_id": "nature-mental-health",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s44220-024-00328-9",
+      "title": "A meta-analysis of loneliness and risk of dementia using longitudinal data from >600,000 individuals"
+    },
+    {
+      "source_id": "nature-human-behaviour",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://doi.org/10.1038/s41562-023-01617-6",
+      "title": "A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality"
+    },
+    {
+      "source_id": "heart-bmj",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://doi.org/10.1136/heartjnl-2015-308790",
+      "title": "Loneliness and social isolation as risk factors for coronary heart disease and stroke: systematic review and meta-analysis of longitudinal observational studies"
+    },
+    {
+      "source_id": "bmc-public-health",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1186/s12889-025-24300-z",
+      "title": "Association of social isolation, loneliness and risk of cardiovascular diseases: Meta-analysis of cohort studies"
+    },
+    {
+      "source_id": "nature-mental-health",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s44220-024-00328-9",
+      "title": "A meta-analysis of loneliness and risk of dementia using longitudinal data from >600,000 individuals"
+    },
+    {
+      "source_id": "social-psychiatry-psychiatric-epidemiology",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.1007/s00127-022-02261-7",
+      "title": "Loneliness and the onset of new mental health problems in the general population"
+    }
+  ]
+}
