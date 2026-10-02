@@ -1,0 +1,57 @@
+{
+  "week": "2026-W40",
+  "day": 5,
+  "theme": "The sociology of loneliness",
+  "citations": [
+    {
+      "source_id": "assessment-journal",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10149889/",
+      "title": "Would the Real Loneliness Please Stand Up? The Validity of Loneliness Scores and the Reliability of Single-Item Scores"
+    },
+    {
+      "source_id": "bmc-public-health",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-15967-3",
+      "title": "The state of loneliness and social isolation research: current knowledge and future directions"
+    },
+    {
+      "source_id": "nature-news",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/d41586-024-00902-2",
+      "title": "The great rewiring: is social media really behind an epidemic of teenage mental illness?"
+    },
+    {
+      "source_id": "jmir",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.jmir.org/2025/1/e60410",
+      "title": "Loneliness and Problematic Media Use: Meta-Analysis of Longitudinal Studies"
+    },
+    {
+      "source_id": "psyarxiv",
+      "location": "text",
+      "evidence_type": "preprint",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://research.gold.ac.uk/id/eprint/40650/1/Loneliness%20Map.pdf",
+      "title": "Loneliness is Distinct from Social Disconnection: A Review, Proposed Reconceptualisation, and Construct Map"
+    }
+  ]
+}
