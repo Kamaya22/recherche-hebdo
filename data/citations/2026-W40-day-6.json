@@ -1,0 +1,97 @@
+{
+  "week": "2026-W40",
+  "day": 6,
+  "theme": "The sociology of loneliness",
+  "citations": [
+    {
+      "source_id": "jama-network-open",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797399",
+      "title": "Interventions Associated With Reduced Loneliness and Social Isolation in Older Adults: A Systematic Review and Meta-analysis"
+    },
+    {
+      "source_id": "frontiers-in-public-health",
+      "location": "todays-readings",
+      "evidence_type": "umbrella-review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1427605/full",
+      "title": "Interventions for loneliness in older adults: a systematic review of reviews"
+    },
+    {
+      "source_id": "journal-affective-disorders",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2026,
+      "url": "https://www.sciencedirect.com/science/article/pii/S016503272600296X",
+      "title": "Interventions to reduce loneliness in children and adolescents (4-18 years): A systematic review and meta-analysis with narrative synthesis of study-level characteristics"
+    },
+    {
+      "source_id": "jama-network-open",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797399",
+      "title": "Interventions Associated With Reduced Loneliness and Social Isolation in Older Adults: A Systematic Review and Meta-analysis"
+    },
+    {
+      "source_id": "frontiers-in-public-health",
+      "location": "text",
+      "evidence_type": "umbrella-review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1427605/full",
+      "title": "Interventions for loneliness in older adults: a systematic review of reviews"
+    },
+    {
+      "source_id": "journal-affective-disorders",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2026,
+      "url": "https://www.sciencedirect.com/science/article/pii/S016503272600296X",
+      "title": "Interventions to reduce loneliness in children and adolescents (4-18 years): A systematic review and meta-analysis with narrative synthesis of study-level characteristics"
+    },
+    {
+      "source_id": "science-of-the-total-environment",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.1016/j.scitotenv.2022.157521",
+      "title": "Green space and loneliness: a systematic review with theoretical and methodological guidance for future research"
+    },
+    {
+      "source_id": "lancet-public-health",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00217-8/fulltext",
+      "title": "National roll-out of social prescribing in England's primary care system: a longitudinal observational study using Clinical Practice Research Datalink data"
+    },
+    {
+      "source_id": "geriatric-nursing",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2026,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42167082/",
+      "title": "Impact of social prescribing on quality of life and loneliness in geriatric populations: A comprehensive meta-analysis of RCTs with implications for nursing practice"
+    }
+  ]
+}
