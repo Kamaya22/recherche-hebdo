@@ -1,0 +1,77 @@
+{
+  "week": "2026-W40",
+  "day": 7,
+  "theme": "The sociology of loneliness",
+  "citations": [
+    {
+      "source_id": "us-surgeon-general-advisory",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf",
+      "title": "Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community"
+    },
+    {
+      "source_id": "acta-sociologica",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://journals.sagepub.com/doi/10.1177/00016993251330960",
+      "title": "Sociology of loneliness: An introduction"
+    },
+    {
+      "source_id": "journal-of-psychology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00223980.2025.2462632",
+      "title": "Loneliness: A Scoping Review of Reviews From 2001 to 2023"
+    },
+    {
+      "source_id": "us-surgeon-general-advisory",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf",
+      "title": "Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community"
+    },
+    {
+      "source_id": "acta-sociologica",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://journals.sagepub.com/doi/10.1177/00016993251330960",
+      "title": "Sociology of loneliness: An introduction"
+    },
+    {
+      "source_id": "journal-of-psychology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00223980.2025.2462632",
+      "title": "Loneliness: A Scoping Review of Reviews From 2001 to 2023"
+    },
+    {
+      "source_id": "who-commission-social-connection",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.who.int/publications/i/item/978240112360",
+      "title": "From Loneliness to Social Connection — Charting a Path to Healthier Societies"
+    }
+  ]
+}
