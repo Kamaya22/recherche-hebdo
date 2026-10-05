@@ -1,0 +1,47 @@
+{
+  "week": "2026-W41",
+  "day": 1,
+  "theme": "Gravitational-wave astronomy",
+  "citations": [
+    {
+      "source_id": "nature-reviews-physics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://www.nature.com/articles/s42254-021-00303-8",
+      "title": "Gravitational-wave physics and astronomy in the 2020s and 2030s"
+    },
+    {
+      "source_id": "ligo-caltech",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": null,
+      "url": "https://www.ligo.caltech.edu/page/what-is-ligo",
+      "title": "What is LIGO?"
+    },
+    {
+      "source_id": "ligo-science-summaries",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2017,
+      "url": "http://ligo.org/science-summaries/GW170817MMA/",
+      "title": "The dawn of multi-messenger astrophysics: Observations of a binary neutron star merger"
+    },
+    {
+      "source_id": "physical-review-letters",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2016,
+      "url": "https://doi.org/10.1103/PhysRevLett.116.061102",
+      "title": "Observation of Gravitational Waves from a Binary Black Hole Merger"
+    }
+  ]
+}
