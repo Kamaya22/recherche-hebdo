@@ -1,0 +1,67 @@
+{
+  "week": "2026-W41",
+  "day": 2,
+  "theme": "Gravitational-wave astronomy",
+  "citations": [
+    {
+      "source_id": "classical-quantum-gravity",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.1088/1361-6382/ab685e",
+      "title": "A guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals"
+    },
+    {
+      "source_id": "living-reviews-relativity",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2011,
+      "url": "https://doi.org/10.12942/lrr-2011-5",
+      "title": "Interferometer techniques for gravitational-wave detection"
+    },
+    {
+      "source_id": "quanta-magazine",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://www.quantamagazine.org/studies-rescue-ligos-gravitational-wave-signal-from-the-noise-20181213/",
+      "title": "New Studies Rescue Gravitational-Wave Signal From the Noise"
+    },
+    {
+      "source_id": "science",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2024,
+      "url": "https://doi.org/10.1126/science.ado8069",
+      "title": "Squeezing the quantum noise of a gravitational-wave detector below the standard quantum limit"
+    },
+    {
+      "source_id": "jcap",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2017,
+      "url": "https://doi.org/10.1088/1475-7516/2017/08/013",
+      "title": "On the time lags of the LIGO signals"
+    },
+    {
+      "source_id": "jcap",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://doi.org/10.1088/1475-7516/2019/02/019",
+      "title": "Investigating the noise residuals around the gravitational wave event GW150914"
+    }
+  ]
+}
