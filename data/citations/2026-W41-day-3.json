@@ -1,0 +1,37 @@
+{
+  "week": "2026-W41",
+  "day": 3,
+  "theme": "Gravitational-wave astronomy",
+  "citations": [
+    {
+      "source_id": "physical-review-x",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.1103/PhysRevX.13.011048",
+      "title": "Population of Merging Compact Binaries Inferred Using Gravitational Waves through GWTC-3"
+    },
+    {
+      "source_id": "ligo-science-summaries",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://ligo.org/science-summaries/O4b_catalog_omnibus/",
+      "title": "GWTC-5.0: Updating the catalog with observations from the second part of the fourth LIGO-Virgo-KAGRA observing run"
+    },
+    {
+      "source_id": "arxiv",
+      "location": "todays-readings",
+      "evidence_type": "preprint",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2605.27226",
+      "title": "GWTC-5.0: Population Properties of Merging Compact Binaries"
+    }
+  ]
+}
