@@ -1,0 +1,47 @@
+{
+  "week": "2026-W41",
+  "day": 4,
+  "theme": "Gravitational-wave astronomy",
+  "citations": [
+    {
+      "source_id": "annual-review-astronomy-astrophysics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://doi.org/10.1146/annurev-astro-112420-030742",
+      "title": "First Multimessenger Observations of a Neutron Star Merger"
+    },
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2017,
+      "url": "https://doi.org/10.1038/nature24453",
+      "title": "Origin of the heavy elements in binary neutron-star mergers from a gravitational-wave event"
+    },
+    {
+      "source_id": "eso-public",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://www.eso.org/public/news/eso1917/",
+      "title": "First Identification of a Heavy Element Born from Neutron Star Collision"
+    },
+    {
+      "source_id": "nature",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2019,
+      "url": "https://doi.org/10.1038/s41586-019-1676-3",
+      "title": "Identification of strontium in the merger of two neutron stars"
+    }
+  ]
+}
