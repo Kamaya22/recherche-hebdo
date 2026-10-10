@@ -1,0 +1,57 @@
+{
+  "week": "2026-W41",
+  "day": 6,
+  "theme": "Gravitational-wave astronomy",
+  "citations": [
+    {
+      "source_id": "classical-quantum-gravity",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2016,
+      "url": "https://doi.org/10.1088/0264-9381/33/13/134001",
+      "title": "Characterization of transient noise in Advanced LIGO relevant to gravitational-wave signal GW150914"
+    },
+    {
+      "source_id": "astrophysical-journal-supplement",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://doi.org/10.3847/1538-4365/ab06fc",
+      "title": "Bilby: A User-friendly Bayesian Inference Library for Gravitational-Wave Astronomy"
+    },
+    {
+      "source_id": "living-reviews-relativity",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1007/s41114-024-00055-8",
+      "title": "Applications of machine learning in gravitational-wave research with current interferometric detectors"
+    },
+    {
+      "source_id": "classical-quantum-gravity",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://doi.org/10.1088/1361-6382/acb633",
+      "title": "Data quality up to the third observing run of Advanced LIGO: Gravity Spy glitch classifications"
+    },
+    {
+      "source_id": "physical-review-letters",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://doi.org/10.1103/PhysRevLett.127.241103",
+      "title": "Real-time gravitational-wave science with neural posterior estimation"
+    }
+  ]
+}
