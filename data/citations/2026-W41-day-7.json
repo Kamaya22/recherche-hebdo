@@ -1,0 +1,57 @@
+{
+  "week": "2026-W41",
+  "day": 7,
+  "theme": "Gravitational-wave astronomy",
+  "citations": [
+    {
+      "source_id": "nature-reviews-physics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://www.nature.com/articles/s42254-021-00303-8",
+      "title": "Gravitational-wave physics and astronomy in the 2020s and 2030s"
+    },
+    {
+      "source_id": "jcap",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.1088/1475-7516/2020/03/050",
+      "title": "Science Case for the Einstein Telescope"
+    },
+    {
+      "source_id": "physical-review-d",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://doi.org/10.1103/PhysRevD.112.084080",
+      "title": "Tests of General Relativity with GWTC-3"
+    },
+    {
+      "source_id": "arxiv",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://arxiv.org/abs/2109.09882",
+      "title": "A Horizon Study for Cosmic Explorer: Science, Observatories, and Community"
+    },
+    {
+      "source_id": "esa-science",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/LISA/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead",
+      "title": "Capturing the ripples of spacetime: LISA gets go-ahead"
+    }
+  ]
+}
