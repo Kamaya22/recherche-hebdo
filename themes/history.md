@@ -20,3 +20,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W39 — Solar geoengineering — the science, risks, and governance debates around deliberately cooling the planet
 - 2026-W40 — The sociology of loneliness — why social isolation is rising, its health consequences, and what interventions actually work
 - 2026-W41 — Gravitational-wave astronomy — how detectors like LIGO opened a new window on the universe and what they've found
+- 2026-W42 — The regeneration paradox — why some animals can regrow limbs and organs and humans (mostly) cannot

@@ -1,0 +1,37 @@
+{
+  "week": "2026-W42",
+  "day": 1,
+  "theme": "The regeneration paradox",
+  "citations": [
+    {
+      "source_id": "evodevo",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-019-0124-7",
+      "title": "Common themes in tetrapod appendage regeneration: a cellular perspective"
+    },
+    {
+      "source_id": "frontiers-cell-developmental-biology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.frontiersin.org/articles/10.3389/fcell.2023.1217185/full",
+      "title": "Toeing the line between regeneration and fibrosis"
+    },
+    {
+      "source_id": "nichd",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nichd.nih.gov/about/meetings/2021/021721",
+      "title": "Opportunities for Rapid Advancement of Limb Regeneration: From Animal Models to Humans"
+    }
+  ]
+}
