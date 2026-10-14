@@ -1,0 +1,47 @@
+{
+  "week": "2026-W42",
+  "day": 3,
+  "theme": "The regeneration paradox",
+  "citations": [
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2009,
+      "url": "https://doi.org/10.1038/nature08152",
+      "title": "Cells keep a memory of their tissue origin during axolotl limb regeneration"
+    },
+    {
+      "source_id": "science",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2018,
+      "url": "https://doi.org/10.1126/science.aaq0681",
+      "title": "Single-cell analysis uncovers convergence of cell identities during axolotl limb regeneration"
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6279788/",
+      "title": "Transcriptomic landscape of the blastema niche in regenerating adult axolotl limbs at single-cell resolution"
+    },
+    {
+      "source_id": "nature-cell-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9107506/",
+      "title": "Enhancer selection dictates gene expression responses in remote organs during tissue regeneration"
+    }
+  ]
+}
