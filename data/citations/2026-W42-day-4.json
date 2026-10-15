@@ -1,0 +1,37 @@
+{
+  "week": "2026-W42",
+  "day": 4,
+  "theme": "The regeneration paradox",
+  "citations": [
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2013,
+      "url": "https://doi.org/10.1038/nature12214",
+      "title": "Wnt activation in nail epithelium couples nail growth to digit regeneration"
+    },
+    {
+      "source_id": "gms-iprs",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://www.egms.de/static/en/journals/iprs/2018-7/iprs000125.shtml",
+      "title": "Conservative treatment of fingertip injuries in children – first experiences with a novel silicone finger cap that enables wound-fluid analysis"
+    },
+    {
+      "source_id": "clinical-translational-medicine",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11329751/",
+      "title": "Liver regeneration after injury: Mechanisms, cellular interactions and therapeutic innovations"
+    }
+  ]
+}
