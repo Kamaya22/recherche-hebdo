@@ -1,0 +1,47 @@
+{
+  "week": "2026-W42",
+  "day": 5,
+  "theme": "The regeneration paradox",
+  "citations": [
+    {
+      "source_id": "advanced-science",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8336523/",
+      "title": "Finding Solutions for Fibrosis: Understanding the Innate Mechanisms Used by Super-Regenerator Vertebrates to Combat Scarring"
+    },
+    {
+      "source_id": "pnas",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2013,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3677454/",
+      "title": "Macrophages are required for adult salamander limb regeneration"
+    },
+    {
+      "source_id": "biological-reviews",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.13102",
+      "title": "Loss of the ability to regenerate body appendages in vertebrates: from side effects of evolutionary innovations to gene loss"
+    },
+    {
+      "source_id": "frontiers-in-neuroscience",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8854365/",
+      "title": "Why Has the Ability to Regenerate Following CNS Injury Been Repeatedly Lost Over the Course of Evolution?"
+    }
+  ]
+}
