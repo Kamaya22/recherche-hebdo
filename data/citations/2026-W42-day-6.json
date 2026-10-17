@@ -1,0 +1,47 @@
+{
+  "week": "2026-W42",
+  "day": 6,
+  "theme": "The regeneration paradox",
+  "citations": [
+    {
+      "source_id": "international-journal-developmental-biology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://ijdb.ehu.eus/article/240111yl",
+      "title": "The Genetic Odyssey of Axolotl Regeneration: Insights and Innovations"
+    },
+    {
+      "source_id": "development",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7055364/",
+      "title": "Model systems for regeneration: the spiny mouse, Acomys cahirinus"
+    },
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2020,
+      "url": "https://doi.org/10.1038/s41586-020-2975-4",
+      "title": "Reprogramming to recover youthful epigenetic information and restore vision"
+    },
+    {
+      "source_id": "mammalian-genome",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2005,
+      "url": null,
+      "title": "Mapping the dominant wound healing and soft tissue regeneration QTL in MRL x CAST"
+    }
+  ]
+}
