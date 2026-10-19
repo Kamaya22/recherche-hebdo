@@ -1,0 +1,37 @@
+{
+  "week": "2026-W43",
+  "day": 1,
+  "theme": "Vaccine hesitancy and trust in science",
+  "citations": [
+    {
+      "source_id": "vaccine-journal",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2015,
+      "url": "https://www.technet-21.org/en/resources/journal-article/vaccine-hesitancy-definition-scope-and-determinants",
+      "title": "Vaccine hesitancy: Definition, scope and determinants"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://doi.org/10.1371/journal.pone.0208601",
+      "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination"
+    },
+    {
+      "source_id": "frontiers-in-public-health",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1491927/epub",
+      "title": "Contagion comeback: unravelling the measles outbreak across the USA"
+    }
+  ]
+}

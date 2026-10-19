@@ -3,7 +3,6 @@
 L'agent prend chaque lundi le **premier thème `validé`** de cette liste (sinon le premier `proposé`).
 Pour piloter : changer `proposé` → `validé`, réordonner les lignes, supprimer ou ajouter librement.
 
-- [proposé] Vaccine hesitancy and trust in science — the psychology and sociology of why people refuse effective interventions
 - [proposé] Lithium-ion battery science and the energy storage transition — chemistry, safety, recycling, and what comes after lithium
 - [proposé] The gut virome — bacteriophages as an overlooked layer of the human microbiome and their role in health and disease
 - [proposé] Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents
