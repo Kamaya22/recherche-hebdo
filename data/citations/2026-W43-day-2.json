@@ -1,0 +1,47 @@
+{
+  "week": "2026-W43",
+  "day": 2,
+  "theme": "Vaccine hesitancy and trust in science",
+  "citations": [
+    {
+      "source_id": "bmc-public-health",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2011,
+      "url": "https://doi.org/10.1186/1471-2458-11-943",
+      "title": "Making sense of perceptions of risk of diseases and vaccinations: a qualitative study combining models of health beliefs, decision-making and risk perception"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.1371/journal.pone.0228898",
+      "title": "No evidence that omission and confirmation biases affect the perception and recall of vaccine-related information"
+    },
+    {
+      "source_id": "health-psychology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2018,
+      "url": "https://doi.org/10.1037/hea0000586",
+      "title": "The psychological roots of anti-vaccination attitudes: A 24-nation investigation"
+    },
+    {
+      "source_id": "vaccine-journal",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2007,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17292515/",
+      "title": "A taxonomy of reasoning flaws in the anti-vaccine movement"
+    }
+  ]
+}
