@@ -1,0 +1,37 @@
+{
+  "week": "2026-W43",
+  "day": 4,
+  "theme": "Vaccine hesitancy and trust in science",
+  "citations": [
+    {
+      "source_id": "jmir",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.2196/37367",
+      "title": "Misinformation About COVID-19 Vaccines on Social Media: Rapid Review"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.1371/journal.pone.0263746",
+      "title": "Characterizing polarization in online vaccine discourse — a large-scale study"
+    },
+    {
+      "source_id": "scientific-reports",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s41598-025-21452-1",
+      "title": "Trust in institutions and misinformation susceptibility both independently explain vaccine skepticism"
+    }
+  ]
+}
