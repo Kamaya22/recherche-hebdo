@@ -1,0 +1,57 @@
+{
+  "week": "2026-W43",
+  "day": 5,
+  "theme": "Vaccine hesitancy and trust in science",
+  "citations": [
+    {
+      "source_id": "plos-one",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.1371/journal.pone.0281140",
+      "title": "Correcting Vaccine Misinformation: A Failure to Replicate Familiarity or Fear-Driven Backfire Effects"
+    },
+    {
+      "source_id": "translational-behavioral-medicine",
+      "location": "todays-readings",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://doi.org/10.1093/tbm/ibae069",
+      "title": "Addressing vaccine hesitancy: A systematic review comparing the efficacy of motivational versus educational interventions on vaccination uptake"
+    },
+    {
+      "source_id": "perspectives-psychological-science",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://doi.org/10.1177/17456916231178708",
+      "title": "Do COVID-19 Vaccination Policies Backfire? The Effects of Mandates, Vaccination Passports, and Financial Incentives on COVID-19 Vaccination"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2017,
+      "url": "https://doi.org/10.1371/journal.pone.0181640",
+      "title": "Misinformation lingers in memory: Failure of three pro-vaccination strategies"
+    },
+    {
+      "source_id": "journal-of-health-psychology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2021,
+      "url": "https://doi.org/10.1177/13591053211044535",
+      "title": "Vaccination policy reactance: Predictors, consequences, and countermeasures"
+    }
+  ]
+}
