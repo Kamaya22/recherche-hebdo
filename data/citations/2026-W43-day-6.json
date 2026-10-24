@@ -1,0 +1,37 @@
+{
+  "week": "2026-W43",
+  "day": 6,
+  "theme": "Vaccine hesitancy and trust in science",
+  "citations": [
+    {
+      "source_id": "who-besd-guidance",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240049680",
+      "title": "Behavioural and social drivers of vaccination: tools and practical guidance for achieving high uptake"
+    },
+    {
+      "source_id": "vaccines-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9412526",
+      "title": "Overview of Tools and Measures Investigating Vaccine Hesitancy in a Ten Year Period: A Scoping Review"
+    },
+    {
+      "source_id": "pediatrics-journal",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2019,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31113831/",
+      "title": "Elimination of Nonmedical Immunization Exemptions in California and School-Entry Vaccine Status"
+    }
+  ]
+}
