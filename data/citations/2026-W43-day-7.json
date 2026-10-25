@@ -1,0 +1,147 @@
+{
+  "week": "2026-W43",
+  "day": 7,
+  "theme": "Vaccine hesitancy and trust in science",
+  "citations": [
+    {
+      "source_id": "public-health-reviews",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://doi.org/10.3389/phrs.2026.1609375",
+      "title": "Interventions addressing vaccine hesitancy in the WHO European Region and in North America"
+    },
+    {
+      "source_id": "bmc-public-health",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1186/s12889-025-22462-4",
+      "title": "Factors influencing vaccine hesitancy toward non-COVID vaccines in South Asia: a systematic review"
+    },
+    {
+      "source_id": "vaccine-journal",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2015,
+      "url": "https://www.technet-21.org/en/resources/journal-article/vaccine-hesitancy-definition-scope-and-determinants",
+      "title": "Vaccine hesitancy: Definition, scope and determinants"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.1371/journal.pone.0228898",
+      "title": "No evidence that omission and confirmation biases affect the perception and recall of vaccine-related information"
+    },
+    {
+      "source_id": "bmc-public-health",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2011,
+      "url": "https://doi.org/10.1186/1471-2458-11-943",
+      "title": "Making sense of perceptions of risk of diseases and vaccinations: a qualitative study combining models of health beliefs, decision-making and risk perception"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://doi.org/10.1371/journal.pone.0208601",
+      "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination"
+    },
+    {
+      "source_id": "who-besd-guidance",
+      "location": "text",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.who.int/publications/i/item/9789240049680",
+      "title": "Behavioural and social drivers of vaccination: tools and practical guidance for achieving high uptake"
+    },
+    {
+      "source_id": "vaccines-mdpi",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://doi.org/10.3390/vaccines9060607",
+      "title": "Transmission of Vaccination Attitudes and Uptake Based on Social Contagion Theory: A Scoping Review"
+    },
+    {
+      "source_id": "journal-population-economics",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://doi.org/10.1007/s00148-024-01013-y",
+      "title": "The lasting impact of the Tuskegee Syphilis Study: COVID-19 vaccination hesitation among African Americans"
+    },
+    {
+      "source_id": "scientific-reports",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s41598-025-21452-1",
+      "title": "Trust in institutions and misinformation susceptibility both independently explain vaccine skepticism"
+    },
+    {
+      "source_id": "plos-one",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.1371/journal.pone.0281140",
+      "title": "Correcting Vaccine Misinformation: A Failure to Replicate Familiarity or Fear-Driven Backfire Effects"
+    },
+    {
+      "source_id": "translational-behavioral-medicine",
+      "location": "text",
+      "evidence_type": "meta-analysis",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2025,
+      "url": "https://doi.org/10.1093/tbm/ibae069",
+      "title": "Addressing vaccine hesitancy: A systematic review comparing the efficacy of motivational versus educational interventions on vaccination uptake"
+    },
+    {
+      "source_id": "journal-of-health-psychology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2021,
+      "url": "https://doi.org/10.1177/13591053211044535",
+      "title": "Vaccination policy reactance: Predictors, consequences, and countermeasures"
+    },
+    {
+      "source_id": "vaccines-mdpi",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9412526",
+      "title": "Overview of Tools and Measures Investigating Vaccine Hesitancy in a Ten Year Period: A Scoping Review"
+    }
+  ]
+}
