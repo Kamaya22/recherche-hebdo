@@ -22,3 +22,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W41 — Gravitational-wave astronomy — how detectors like LIGO opened a new window on the universe and what they've found
 - 2026-W42 — The regeneration paradox — why some animals can regrow limbs and organs and humans (mostly) cannot
 - 2026-W43 — Vaccine hesitancy and trust in science — the psychology and sociology of why people refuse effective interventions
+- 2026-W44 — Lithium-ion battery science and the energy storage transition — chemistry, safety, recycling, and what comes after lithium

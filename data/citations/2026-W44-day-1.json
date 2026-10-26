@@ -1,0 +1,37 @@
+{
+  "week": "2026-W44",
+  "day": 1,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "ijms",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.3390/ijms24087457",
+      "title": "The Future of Energy Storage: Advancements and Roadmaps for Lithium-Ion Batteries"
+    },
+    {
+      "source_id": "iea",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions",
+      "title": "Batteries and Secure Energy Transitions"
+    },
+    {
+      "source_id": "national-science-review",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1093/nsr/nwaf287",
+      "title": "Beyond lithium-ion batteries: what's powering tomorrow's breakthroughs?"
+    }
+  ]
+}
