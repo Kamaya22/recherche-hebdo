@@ -1,0 +1,37 @@
+{
+  "week": "2026-W44",
+  "day": 2,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "sustainable-energy-fuels",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2020/se/d0se00175a",
+      "title": "The success story of graphite as a lithium-ion anode material – fundamentals, remaining challenges, and recent developments including silicon (oxide) composites"
+    },
+    {
+      "source_id": "ees-batteries",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/eb/d5eb00202h",
+      "title": "Redox aspects of lithium-ion batteries. Is graphite an anode?"
+    },
+    {
+      "source_id": "energies",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.3390/en17143372",
+      "title": "Unraveling the Degradation Mechanisms of Lithium-Ion Batteries"
+    }
+  ]
+}
