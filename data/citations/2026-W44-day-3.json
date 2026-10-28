@@ -1,0 +1,37 @@
+{
+  "week": "2026-W44",
+  "day": 3,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "renewable-sustainable-energy-reviews",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://doi.org/10.1016/j.rser.2021.111437",
+      "title": "Mitigation Strategies for Li-Ion Battery Thermal Runaway: A Review"
+    },
+    {
+      "source_id": "batteries-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.3390/batteries9050237",
+      "title": "Thermal and Mechanical Safety Assessment of Type 21700 Lithium-Ion Batteries with NMC, NCA and LFP Cathodes–Investigation of Cell Abuse by Means of Accelerating Rate Calorimetry (ARC)"
+    },
+    {
+      "source_id": "processes-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.3390/pr13082499",
+      "title": "Advances in Thermal Management of Lithium-Ion Batteries: Causes of Thermal Runaway and Mitigation Strategies"
+    }
+  ]
+}
