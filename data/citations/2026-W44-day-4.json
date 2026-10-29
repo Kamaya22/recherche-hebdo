@@ -1,0 +1,57 @@
+{
+  "week": "2026-W44",
+  "day": 4,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "iea",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025",
+      "title": "Global Critical Minerals Outlook 2025"
+    },
+    {
+      "source_id": "resources-policy",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://doi.org/10.1016/j.resourpol.2021.102015",
+      "title": "Assessing impacts of responsible sourcing initiatives for cobalt: Insights from a case study"
+    },
+    {
+      "source_id": "one-earth",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1016/j.oneear.2024.10.010",
+      "title": "Nickel mining reduced forest cover in Indonesia, but had mixed outcomes for well-being"
+    },
+    {
+      "source_id": "usgs-mcs",
+      "location": "text",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/congo-kinshasa",
+      "title": "Congo (Kinshasa) cobalt production statistics (Mineral Commodity Summaries)"
+    },
+    {
+      "source_id": "usgs-mcs",
+      "location": "text",
+      "evidence_type": "to-verify",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/indonesia",
+      "title": "Indonesia nickel production statistics (Mineral Commodity Summaries)"
+    }
+  ]
+}
