@@ -1,0 +1,47 @@
+{
+  "week": "2026-W44",
+  "day": 5,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "recycling-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.3390/recycling7030033",
+      "title": "Lithium-Ion Battery Recycling in the Circular Economy: A Review"
+    },
+    {
+      "source_id": "rsc-sustainability",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1039/D5SU00417A",
+      "title": "Advancing hydrometallurgical recycling of spent lithium-ion batteries: an AI-based readiness and sustainability assessment"
+    },
+    {
+      "source_id": "eu-battery-regulation",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://eur-lex.europa.eu/EN/legal-content/summary/sustainability-rules-for-batteries-and-waste-batteries.html",
+      "title": "Sustainability rules for batteries and waste batteries (summary of Regulation (EU) 2023/1542)"
+    },
+    {
+      "source_id": "nano-micro-letters",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1007/s40820-024-01434-0",
+      "title": "Direct Regeneration of Spent Lithium-Ion Battery Cathodes: From Theoretical Study to Production Practice"
+    }
+  ]
+}
