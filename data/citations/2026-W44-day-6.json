@@ -1,0 +1,47 @@
+{
+  "week": "2026-W44",
+  "day": 6,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "batteries-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.mdpi.com/2313-0105/10/8/279",
+      "title": "Comparative Issues of Metal-Ion Batteries toward Sustainable Energy Storage: Lithium vs. Sodium"
+    },
+    {
+      "source_id": "nature-energy",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s41560-023-01208-9",
+      "title": "Challenges in speeding up solid-state battery development"
+    },
+    {
+      "source_id": "iea",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+      "title": "Global EV Outlook 2025 — Electric vehicle batteries"
+    },
+    {
+      "source_id": "chemical-reviews",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://escholarship.org/uc/item/7b00f0nt",
+      "title": "Promises and Challenges of Next-Generation \"Beyond Li-ion\" Batteries for Electric Vehicles and Grid Decarbonization"
+    }
+  ]
+}
