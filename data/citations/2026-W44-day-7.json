@@ -1,0 +1,77 @@
+{
+  "week": "2026-W44",
+  "day": 7,
+  "theme": "Lithium-ion battery science and the energy storage transition",
+  "citations": [
+    {
+      "source_id": "nature-communications",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://www.nature.com/articles/s41467-020-19991-4",
+      "title": "Prospects for lithium-ion batteries and beyond—a 2030 vision"
+    },
+    {
+      "source_id": "batteries-mdpi",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.3390/batteries11050176",
+      "title": "A Perspective on the Challenges and Prospects of Realizing the Second Life of Retired EV Batteries"
+    },
+    {
+      "source_id": "batteries-mdpi",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.3390/batteries9050237",
+      "title": "Thermal and Mechanical Safety Assessment of Type 21700 Lithium-Ion Batteries with NMC, NCA and LFP Cathodes–Investigation of Cell Abuse by Means of Accelerating Rate Calorimetry (ARC)"
+    },
+    {
+      "source_id": "resources-policy",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://doi.org/10.1016/j.resourpol.2021.102015",
+      "title": "Assessing impacts of responsible sourcing initiatives for cobalt: Insights from a case study"
+    },
+    {
+      "source_id": "one-earth",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1016/j.oneear.2024.10.010",
+      "title": "Nickel mining reduced forest cover in Indonesia, but had mixed outcomes for well-being"
+    },
+    {
+      "source_id": "recycling-mdpi",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.3390/recycling7030033",
+      "title": "Lithium-Ion Battery Recycling in the Circular Economy: A Review"
+    },
+    {
+      "source_id": "national-science-review",
+      "location": "text",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1093/nsr/nwaf287",
+      "title": "Beyond lithium-ion batteries: what's powering tomorrow's breakthroughs?"
+    }
+  ]
+}
