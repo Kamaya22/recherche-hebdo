@@ -1,0 +1,47 @@
+{
+  "week": "2026-W45",
+  "day": 1,
+  "theme": "The gut virome — bacteriophages as an overlooked layer of the human microbiome",
+  "citations": [
+    {
+      "source_id": "nature-reviews-microbiology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.nature.com/articles/s41579-021-00536-5",
+      "title": "The human virome: assembly, composition and host interactions"
+    },
+    {
+      "source_id": "frontiers-cellular-infection-microbiology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://www.frontiersin.org/articles/10.3389/fcimb.2022.836706/full",
+      "title": "Gut Virome: Role and Distribution in Health and Gastrointestinal Diseases"
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://www.nature.com/articles/ncomms5498",
+      "title": "A highly abundant bacteriophage discovered in the unknown sequences of human faecal metagenomes"
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://www.nature.com/articles/ncomms5498",
+      "title": "A highly abundant bacteriophage discovered in the unknown sequences of human faecal metagenomes"
+    }
+  ]
+}

@@ -23,3 +23,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W42 — The regeneration paradox — why some animals can regrow limbs and organs and humans (mostly) cannot
 - 2026-W43 — Vaccine hesitancy and trust in science — the psychology and sociology of why people refuse effective interventions
 - 2026-W44 — Lithium-ion battery science and the energy storage transition — chemistry, safety, recycling, and what comes after lithium
+- 2026-W45 — The gut virome — bacteriophages as an overlooked layer of the human microbiome and their role in health and disease
