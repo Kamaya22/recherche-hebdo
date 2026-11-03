@@ -1,0 +1,57 @@
+{
+  "week": "2026-W45",
+  "day": 2,
+  "theme": "The gut virome — bacteriophages as an overlooked layer of the human microbiome",
+  "citations": [
+    {
+      "source_id": "annual-review-virology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8484061/",
+      "title": "Bacteriophage-Bacteria Interactions in the Gut: From Invertebrates to Mammals"
+    },
+    {
+      "source_id": "gastroenterology-report",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006064/",
+      "title": "Phage-mediated horizontal gene transfer and its implications for the human gut microbiome"
+    },
+    {
+      "source_id": "npj-biofilms-microbiomes",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5515262/",
+      "title": "Piggyback-the-Winner in host-associated microbial communities"
+    },
+    {
+      "source_id": "science",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2018,
+      "url": null,
+      "title": "Genome hypermobility by lateral transduction"
+    },
+    {
+      "source_id": "pnas",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2013,
+      "url": null,
+      "title": "Bacteriophage adhering to mucus provide a non-host-derived immunity"
+    }
+  ]
+}
