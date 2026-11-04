@@ -1,0 +1,57 @@
+{
+  "week": "2026-W45",
+  "day": 3,
+  "theme": "The gut virome — bacteriophages as an overlooked layer of the human microbiome",
+  "citations": [
+    {
+      "source_id": "isme-journal",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8776839/",
+      "title": "Phages in the infant gut: a framework for virome development during early life"
+    },
+    {
+      "source_id": "pnas",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5027468/",
+      "title": "Healthy human gut phageome"
+    },
+    {
+      "source_id": "frontiers-in-aging",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2025.1731621/full",
+      "title": "The gut and circulating virome: emerging players in aging and longevity"
+    },
+    {
+      "source_id": "cell-host-microbe",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2018,
+      "url": null,
+      "title": "Biology and Taxonomy of crAss-like Bacteriophages, the Most Abundant Virus in the Human Gut"
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2014,
+      "url": "https://www.nature.com/articles/ncomms5498",
+      "title": "A highly abundant bacteriophage discovered in the unknown sequences of human faecal metagenomes"
+    }
+  ]
+}
