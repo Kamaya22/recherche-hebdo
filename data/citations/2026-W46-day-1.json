@@ -1,0 +1,37 @@
+{
+  "week": "2026-W46",
+  "day": 1,
+  "theme": "Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents",
+  "citations": [
+    {
+      "source_id": "biological-reviews",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://doi.org/10.1111/brv.13082",
+      "title": "A conceptual framework on the role of magnetic cues in songbird migration ecology"
+    },
+    {
+      "source_id": "the-conversation",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://theconversation.com/natures-gps-how-animals-use-the-natural-world-to-perform-extraordinary-feats-of-navigation-173700",
+      "title": "Nature's GPS: how animals use the natural world to perform extraordinary feats of navigation"
+    },
+    {
+      "source_id": "cornell-all-about-birds",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2008,
+      "url": "https://www.allaboutbirds.org/news/?p=18686",
+      "title": "The Basics: How Birds Navigate When They Migrate"
+    }
+  ]
+}
