@@ -1,0 +1,37 @@
+{
+  "week": "2026-W46",
+  "day": 3,
+  "theme": "Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents",
+  "citations": [
+    {
+      "source_id": "movement-ecology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2018,
+      "url": "https://doi.org/10.1186/s40462-018-0126-4",
+      "title": "Feasibility of sun and magnetic compass mechanisms in avian long-distance migration"
+    },
+    {
+      "source_id": "journal-of-ornithology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2014,
+      "url": "https://doi.org/10.1007/s10336-013-1004-x",
+      "title": "Star compass learning: how long does it take?"
+    },
+    {
+      "source_id": "journal-of-experimental-biology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2006,
+      "url": "https://doi.org/10.1242/jeb.01960",
+      "title": "Calibration of magnetic and celestial compass cues in migratory birds: a review of cue-conflict experiments"
+    }
+  ]
+}
