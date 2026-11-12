@@ -1,0 +1,37 @@
+{
+  "week": "2026-W46",
+  "day": 4,
+  "theme": "Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents",
+  "citations": [
+    {
+      "source_id": "avian-conservation-and-ecology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2017,
+      "url": "https://doi.org/10.5751/ACE-00953-120108",
+      "title": "The Motus Wildlife Tracking System: a collaborative research network to enhance the understanding of wildlife movement"
+    },
+    {
+      "source_id": "ecography",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://doi.org/10.1111/ecog.04083",
+      "title": "The grand challenges of migration ecology that radar aeroecology can help answer"
+    },
+    {
+      "source_id": "ornithological-applications",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2023,
+      "url": "https://doi.org/10.1093/ornithapp/duad014",
+      "title": "GPS and PTT tracking of small (<500g) migratory birds: a systematic review"
+    }
+  ]
+}
