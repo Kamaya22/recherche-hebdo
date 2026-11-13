@@ -1,0 +1,67 @@
+{
+  "week": "2026-W46",
+  "day": 5,
+  "theme": "Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents",
+  "citations": [
+    {
+      "source_id": "biological-communications",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.21638/spbu03.2020.306",
+      "title": "A hierarchy of compass systems in migratory birds"
+    },
+    {
+      "source_id": "frontiers-in-behavioral-neuroscience",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://doi.org/10.3389/fnbeh.2016.00029",
+      "title": "A New View on an Old Debate: Type of Cue-Conflict Manipulation and Availability of Stars Can Explain the Discrepancies between Cue-Calibration Experiments with Migratory Songbirds"
+    },
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2018,
+      "url": "https://doi.org/10.1038/s41586-018-0176-1",
+      "title": "Long-distance navigation and magnetoreception in migratory animals"
+    },
+    {
+      "source_id": "journal-of-experimental-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2011,
+      "url": "https://doi.org/10.1242/jeb.057729",
+      "title": "Not all songbirds calibrate their magnetic compass from twilight cues: a telemetry study"
+    },
+    {
+      "source_id": "journal-of-experimental-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2011,
+      "url": "https://doi.org/10.1242/jeb.057729",
+      "title": "Not all songbirds calibrate their magnetic compass from twilight cues: a telemetry study"
+    },
+    {
+      "source_id": "journal-of-experimental-biology",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2006,
+      "url": "https://doi.org/10.1242/jeb.01960",
+      "title": "Calibration of magnetic and celestial compass cues in migratory birds: a review of cue-conflict experiments"
+    }
+  ]
+}
