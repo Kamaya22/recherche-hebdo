@@ -1,0 +1,67 @@
+{
+  "week": "2026-W46",
+  "day": 6,
+  "theme": "Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents",
+  "citations": [
+    {
+      "source_id": "ecology-and-evolution",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2016,
+      "url": "https://doi.org/10.1002/ece3.2383",
+      "title": "Emlen funnel experiments revisited: methods update for studying compass orientation in songbirds"
+    },
+    {
+      "source_id": "nature",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2014,
+      "url": "https://doi.org/10.1038/nature13290",
+      "title": "Anthropogenic electromagnetic noise disrupts magnetic compass orientation in a migratory bird"
+    },
+    {
+      "source_id": "current-biology",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2015,
+      "url": "https://doi.org/10.1016/j.cub.2015.08.012",
+      "title": "Eurasian reed warblers compensate for virtual magnetic displacement"
+    },
+    {
+      "source_id": "ardea",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 1958,
+      "url": null,
+      "title": "Two Types of Orientation in Migrating Starlings, Sturnus vulgaris L., and Chaffinches, Fringilla coelebs L., as Revealed by Displacement Experiments"
+    },
+    {
+      "source_id": "journal-of-avian-biology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2020,
+      "url": "https://doi.org/10.1111/jav.02337",
+      "title": "Rethinking classic starling displacement experiments: evidence for innate or for learned migratory directions?"
+    },
+    {
+      "source_id": "biology-letters",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1098/rsbl.2024.0217",
+      "title": "Revisiting Perdeck's massive avian migration experiments debunks alternative social interpretations"
+    }
+  ]
+}
