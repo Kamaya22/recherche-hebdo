@@ -3,7 +3,6 @@
 L'agent prend chaque lundi le **premier thème `validé`** de cette liste (sinon le premier `proposé`).
 Pour piloter : changer `proposé` → `validé`, réordonner les lignes, supprimer ou ajouter librement.
 
-- [proposé] The economics and sociology of remote work — productivity, inequality, and the reshaping of cities after the shift to hybrid work
 - [proposé] The skin microbiome — how resident bacteria shape eczema, acne, wound healing and immune tone
 - [proposé] Algorithmic content moderation — how platforms detect harmful content at scale, and the trade-offs between automation, speech and human oversight
 - [proposé] The physics and sociology of traffic — why jams form, how self-driving cars might change congestion, and what traffic reveals about collective behavior

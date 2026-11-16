@@ -1,0 +1,57 @@
+{
+  "week": "2026-W47",
+  "day": 1,
+  "theme": "The economics and sociology of remote work — productivity, inequality, and the reshaping of cities after the shift to hybrid work",
+  "citations": [
+    {
+      "source_id": "journal-of-economic-perspectives",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.1257/jep.37.4.23",
+      "title": "The Evolution of Work from Home"
+    },
+    {
+      "source_id": "oecd",
+      "location": "todays-readings",
+      "evidence_type": "guideline",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://www.oecd.org/en/publications/oecd-regions-and-cities-at-a-glance-2024_f42db3bf-en/full-report/the-new-geography-of-remote-jobs_6fe0d665.html",
+      "title": "The new geography of remote jobs (OECD Regions and Cities at a Glance 2024)"
+    },
+    {
+      "source_id": "siepr-stanford",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://siepr.stanford.edu/publications/essay/working-home-2025-five-key-facts",
+      "title": "Working from Home in 2025: Five Key Facts"
+    },
+    {
+      "source_id": "journal-of-economic-perspectives",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.1257/jep.37.4.23",
+      "title": "The Evolution of Work from Home"
+    },
+    {
+      "source_id": "siepr-stanford",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://siepr.stanford.edu/publications/essay/working-home-2025-five-key-facts",
+      "title": "Working from Home in 2025: Five Key Facts (Global Survey of Working Arrangements, 40 countries)"
+    }
+  ]
+}
