@@ -1,0 +1,67 @@
+{
+  "week": "2026-W47",
+  "day": 3,
+  "theme": "The economics and sociology of remote work — productivity, inequality, and the reshaping of cities after the shift to hybrid work",
+  "citations": [
+    {
+      "source_id": "journal-of-economic-inequality",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8328128/",
+      "title": "Which Workers Bear the Burden of Social Distancing Policies?"
+    },
+    {
+      "source_id": "oecd-social-employment-migration-wp",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.oecd.org/en/publications/teleworking-through-the-gender-looking-glass_8aff1a74-en.html",
+      "title": "Teleworking through the Gender Looking Glass: A Research and Policy Agenda"
+    },
+    {
+      "source_id": "social-indicators-research",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2024,
+      "url": "https://doi.org/10.1007/s11205-024-03420-w",
+      "title": "Flexibility Stigma Across Europe: How National Contexts Can Shift the Extent to Which Flexible Workers Are Stigmatised"
+    },
+    {
+      "source_id": "journal-of-economic-inequality",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8328128/",
+      "title": "Which Workers Bear the Burden of Social Distancing Policies? (occupational feasibility measures vs. 2007-09 recession exposure)"
+    },
+    {
+      "source_id": "oecd-social-employment-migration-wp",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.oecd.org/en/publications/teleworking-through-the-gender-looking-glass_8aff1a74-en.html",
+      "title": "Teleworking through the Gender Looking Glass (EU 2018 teleworkability and realized-use gap; OECD pandemic-era WFH rates by gender)"
+    },
+    {
+      "source_id": "social-indicators-research",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2020,
+      "url": "https://doi.org/10.1007/s11205-018-2036-7",
+      "title": "Gender, flexibility stigma and the perceived negative consequences of flexible working in the UK (Heejung Chung, 2020, cited as the earlier UK study behind the 2024 cross-national follow-up)"
+    }
+  ]
+}
