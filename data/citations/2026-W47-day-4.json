@@ -1,0 +1,67 @@
+{
+  "week": "2026-W47",
+  "day": 4,
+  "theme": "The economics and sociology of remote work — cities: commercial real estate, downtown activity, and the urban doom loop debate",
+  "citations": [
+    {
+      "source_id": "american-economic-review",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2026,
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231619",
+      "title": "Work from Home and the Office Real Estate Apocalypse"
+    },
+    {
+      "source_id": "pnas",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1073/pnas.2408930121",
+      "title": "How Working From Home Reshapes Cities"
+    },
+    {
+      "source_id": "nature-cities",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://doi.org/10.1038/s44284-024-00057-1",
+      "title": "Impacts of Remote Work on Vehicle Miles Traveled and Transit Ridership in the USA"
+    },
+    {
+      "source_id": "american-economic-review",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2026,
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20231619",
+      "title": "Work from Home and the Office Real Estate Apocalypse (46% long-run NYC office value decline, $556.8B US-wide)"
+    },
+    {
+      "source_id": "pnas",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1073/pnas.2408930121",
+      "title": "How Working From Home Reshapes Cities (the donut effect, concentrated in high-hybrid-work metros)"
+    },
+    {
+      "source_id": "nature-cities",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://doi.org/10.1038/s44284-024-00057-1",
+      "title": "Impacts of Remote Work on Vehicle Miles Traveled and Transit Ridership in the USA (transit ridership fell ~2x as fast as driving)"
+    }
+  ]
+}
