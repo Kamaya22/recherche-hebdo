@@ -1,0 +1,57 @@
+{
+  "week": "2026-W47",
+  "day": 5,
+  "theme": "The economics and sociology of remote work — controversies: return-to-office mandates, measurement disputes, and the fight over mentorship",
+  "citations": [
+    {
+      "source_id": "ssrn-working-papers",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5206058",
+      "title": "The Impact of Return-to-Office Mandates on Equity Analysts"
+    },
+    {
+      "source_id": "nber-working-papers",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://www.nber.org/papers/w31880",
+      "title": "The Power of Proximity to Coworkers: Training for Tomorrow or Productivity Today?"
+    },
+    {
+      "source_id": "bls-monthly-labor-review",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.bls.gov/opub/mlr/2025/article/a-comparison-of-hours-of-work-at-home-estimates-between-the-current-population-survey-and-the-american-time-use-survey.htm",
+      "title": "A Comparison of Hours of Work at Home Estimates Between the Current Population Survey and the American Time Use Survey"
+    },
+    {
+      "source_id": "ssrn-working-papers",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://ssrn.com/abstract=4675401",
+      "title": "Return-to-Office Mandates (Ding & Ma) — no significant change in financial performance/firm value, but lower job satisfaction"
+    },
+    {
+      "source_id": "frbny-staff-reports",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://www.newyorkfed.org/research/staff_reports/sr1211",
+      "title": "Remote Work from the Office (Emanuel & Harrington, FRBNY Staff Report No. 1211) — compliance and the collaboration gap"
+    }
+  ]
+}
