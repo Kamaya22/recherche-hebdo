@@ -1,0 +1,87 @@
+{
+  "week": "2026-W47",
+  "day": 6,
+  "theme": "The economics and sociology of remote work — methods: how economists actually know what they claim to know",
+  "citations": [
+    {
+      "source_id": "review-of-income-and-wealth",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1111/roiw.70029",
+      "title": "How Many Americans Work Remotely? A Survey of Surveys and Their Measurement Issues"
+    },
+    {
+      "source_id": "journal-of-economic-perspectives",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2010,
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3",
+      "title": "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics"
+    },
+    {
+      "source_id": "journal-of-econometrics",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2023,
+      "url": "https://doi.org/10.1016/j.jeconom.2023.03.008",
+      "title": "What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature"
+    },
+    {
+      "source_id": "review-of-income-and-wealth",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1111/roiw.70029",
+      "title": "How Many Americans Work Remotely? (the CPS's exclusion of already-remote pre-pandemic workers explains most of the cross-survey gap)"
+    },
+    {
+      "source_id": "nature",
+      "location": "text",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11208135/",
+      "title": "Hybrid working from home improves retention without damaging performance (Trip.com RCT, re-examined as an example of individual-level randomization)"
+    },
+    {
+      "source_id": "nature-cities",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "unknown",
+      "year": 2024,
+      "url": "https://doi.org/10.1038/s44284-024-00057-1",
+      "title": "Impacts of Remote Work on Vehicle Miles Traveled and Transit Ridership in the USA (re-examined as a difference-in-differences design resting on a parallel-trends assumption)"
+    },
+    {
+      "source_id": "ssrn-working-papers",
+      "location": "text",
+      "evidence_type": "preprint",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5206058",
+      "title": "The Impact of Return-to-Office Mandates on Equity Analysts (35 staggered mandates, re-examined as a staggered-adoption difference-in-differences design)"
+    },
+    {
+      "source_id": "bls-monthly-labor-review",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.bls.gov/opub/mlr/2025/article/a-comparison-of-hours-of-work-at-home-estimates-between-the-current-population-survey-and-the-american-time-use-survey.htm",
+      "title": "A Comparison of Hours of Work at Home Estimates Between the Current Population Survey and the American Time Use Survey (re-examined alongside the broader survey-of-surveys)"
+    }
+  ]
+}
