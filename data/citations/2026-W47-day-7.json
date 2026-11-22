@@ -1,0 +1,67 @@
+{
+  "week": "2026-W47",
+  "day": 7,
+  "theme": "The economics and sociology of remote work — synthesis: what's settled, what's open, and where to go deeper",
+  "citations": [
+    {
+      "source_id": "liberty-street-economics",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/remote-work-leaves-younger-workers-sidelined/",
+      "title": "Remote Work Leaves Younger Workers Sidelined"
+    },
+    {
+      "source_id": "american-economic-review",
+      "location": "todays-readings",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2026,
+      "url": "https://www.aeaweb.org/doi/10.1257/aer.20231414",
+      "title": "Remote Work and City Structure"
+    },
+    {
+      "source_id": "congressional-research-service",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R48528/R48528.2.pdf",
+      "title": "Economic Development Implications of Remote Work in the Post-Pandemic Environment"
+    },
+    {
+      "source_id": "liberty-street-economics",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2026,
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/remote-work-leaves-younger-workers-sidelined/",
+      "title": "Remote Work Leaves Younger Workers Sidelined (64% of the rise in young college graduates' unemployment attributed to remote work's effect on junior training/hiring)"
+    },
+    {
+      "source_id": "american-economic-review",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2026,
+      "url": "https://www.nber.org/papers/w31494",
+      "title": "Remote Work and City Structure (274 US cities; multiple stable equilibria; 2.3% average welfare loss for permanently low-commuting cities)"
+    },
+    {
+      "source_id": "congressional-research-service",
+      "location": "text",
+      "evidence_type": "review",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R48528/R48528.2.pdf",
+      "title": "Economic Development Implications of Remote Work in the Post-Pandemic Environment (synthesis across productivity, workers, geography, and business impacts for Congress)"
+    }
+  ]
+}
