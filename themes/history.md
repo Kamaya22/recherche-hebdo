@@ -26,3 +26,4 @@ Format : `- <YYYY-Www> — Theme title`
 - 2026-W45 — The gut virome — bacteriophages as an overlooked layer of the human microbiome and their role in health and disease
 - 2026-W46 — Bird migration navigation — magnetoreception, celestial cues, and how animals find their way across continents
 - 2026-W47 — The economics and sociology of remote work — productivity, inequality, and the reshaping of cities after the shift to hybrid work
+- 2026-W48 — The skin microbiome — how resident bacteria shape eczema, acne, wound healing and immune tone

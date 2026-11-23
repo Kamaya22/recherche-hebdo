@@ -1,0 +1,77 @@
+{
+  "week": "2026-W48",
+  "day": 1,
+  "theme": "The skin microbiome — how resident bacteria shape eczema, acne, wound healing and immune tone",
+  "citations": [
+    {
+      "source_id": "nature-reviews-microbiology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s41579-025-01211-9",
+      "title": "The human skin microbiome: from metagenomes to therapeutics"
+    },
+    {
+      "source_id": "nhgri-news",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://www.genome.gov/news/news-release/NIH-researchers-find-thousands-of-new-microorganisms-living-on-human-skin",
+      "title": "NIH Researchers Find Thousands of New Microorganisms Living on Human Skin"
+    },
+    {
+      "source_id": "nih-news-in-health",
+      "location": "todays-readings",
+      "evidence_type": "perspective",
+      "peer_reviewed": false,
+      "open_access": "open",
+      "year": 2021,
+      "url": "https://newsinhealth.nih.gov/2021/08/your-bodys-bugs",
+      "title": "Your Body's Bugs"
+    },
+    {
+      "source_id": "science",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2009,
+      "url": null,
+      "title": "Topographical and Temporal Diversity of the Human Skin Microbiome"
+    },
+    {
+      "source_id": "nature-microbiology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.1038/s41564-021-01011-w",
+      "title": "Integrating cultivation and metagenomics for a multi-kingdom view of skin microbiome diversity and functions"
+    },
+    {
+      "source_id": "science-translational-medicine",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2017,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28228596/",
+      "title": "Antimicrobials from human skin commensal bacteria protect against Staphylococcus aureus and are deficient in atopic dermatitis"
+    },
+    {
+      "source_id": "nature-medicine",
+      "location": "text",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2021,
+      "url": "https://doi.org/10.1038/s41591-021-01256-2",
+      "title": "Development of a human skin commensal microbe for bacteriotherapy of atopic dermatitis and use in a phase 1 randomized clinical trial"
+    }
+  ]
+}
