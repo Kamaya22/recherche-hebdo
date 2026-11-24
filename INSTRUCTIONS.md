@@ -1,11 +1,10 @@
 # Agent Instructions — Daily Research Reading
 
-You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit it, and push it **to `main`**. Pushing a new `day-N.md` to `main` automatically triggers a GitHub Action that emails the reading to the mailing list (Google Group, repo variable `MAIL_TO`) — the push to `main` IS the delivery, so the file must be fully self-contained and must not be left on a branch. Follow these instructions completely and in order.
+You are a scheduled cloud agent. Your job today: produce one ~30-minute reading on this week's research theme, commit it, and push it to your `claude/...` session branch. A GitHub Action then publishes it to `main`, which emails the reading to the mailing list (Google Group, repo variable `MAIL_TO`) — the push IS the delivery, so the file must be fully self-contained. Follow these instructions completely and in order.
 
 ## Step 0 — Orient yourself
 
-1. **Work on `main`.** The sandbox may drop you on a `claude/...` branch — ignore it and switch:
-   `git checkout main && git pull --ff-only`. Everything you write today belongs on `main`.
+1. **Stay on your session branch.** The sandbox starts you on a fresh `claude/...` branch cut from `main` — work and commit there. Do not check out or push `main`: you are not allowed to, by design.
 2. Run `date -u` to get today's date. Compute the ISO week identifier (`YYYY-Www`, e.g. `2026-W24`) and the day of week (Monday = day 1 … Sunday = day 7).
 3. Check whether `weeks/<current-ISO-week>/theme.md` exists.
 
@@ -76,20 +75,20 @@ The project accumulates, reading after reading, **every** source cited, so sourc
 
 ## Step 3 — Commit and push (this sends the email)
 
-Commit all changed files (`weeks/...`, `themes/...`, `data/citations/<...>.json`, and `data/registry.csv` if you enriched it) and publish them **to `main`**, with exactly these commands:
+Commit all changed files (`weeks/...`, `themes/...`, `data/citations/<...>.json`, and `data/registry.csv` if you enriched it) and push your session branch, with exactly these commands:
 
 ```bash
 git add -A
 git commit -m "Day N reading — <theme> (<YYYY-Www>)"
-git push origin HEAD:main
+git push -u origin HEAD
 ```
 
-- Do **not** run a bare `git push` — from a `claude/...` branch it pushes that branch, not `main`.
-- Do **not** create a branch and do **not** open a pull request.
-- Do **not** leave the reading on a `claude/...` branch: the email fires only on a push to `main`, so a reading left on a branch is silently never delivered.
-- If the push is rejected as non-fast-forward, run `git pull --rebase origin main` and push again. Never force-push.
+- Never push to `main` and never try to — you are not allowed to, by design.
+- Do **not** create another branch and do **not** open a pull request.
+- Only change `weeks/`, `themes/`, `rapports/` and `data/`. A branch that touches any other file (workflows, `tools/`, this file…) is **refused** and nothing is delivered.
+- If the push fails, retry `git push -u origin HEAD` once. Never force-push.
 
-The GitHub Action `.github/workflows/send-reading.yml` detects the new `day-N.md` on `main` and emails its rendered content to the mailing list. The first heading line of `day-N.md` (without the leading `# `) becomes the email subject, so make it descriptive. Push exactly once, when the reading is final — no drafts, and do NOT make a second commit, since each `day-N.md` push sends one email.
+The GitHub Action `.github/workflows/promote-to-main.yml` checks your branch, publishes it to `main`, deletes the branch, and starts `send-reading.yml`, which emails its rendered content to the mailing list. The first heading line of `day-N.md` (without the leading `# `) becomes the email subject, so make it descriptive. Push exactly once, when the reading is final — no drafts, and do NOT make a second commit, since each `day-N.md` push sends one email.
 
 ## Step 4 — Day 7 only: weekly source-diversity report
 
@@ -110,11 +109,11 @@ On **day 7** (the synthesis day), after the reading is written, also produce a s
    - **Discipline & recency**: spread of fields; how recent vs. foundational the sources were.
    - **Blind spots & data quality**: any `to-verify` or off-registry items flagged in `STATS.md`; source families never used.
    - **Recommendations**: 3-5 concrete suggestions for upcoming weeks (e.g. diversify publishers, add an open-access alternative, include a foundational reference).
-3. Commit `rapports/<YYYY-Www>.md` (it can be part of the day-7 commit or a dedicated `Weekly source report — <YYYY-Www>` commit) and push it **to `main`** with `git push origin HEAD:main` — same rules as Step 3, a report left on a branch is never delivered. Its arrival on `main` triggers `.github/workflows/send-report.yml`, which emails it. So **day 7 sends two emails** — the reading and the report. That is intended; do not push the report more than once.
+3. Commit `rapports/<YYYY-Www>.md` — preferably in the day-7 commit, otherwise in a dedicated `Weekly source report — <YYYY-Www>` commit — and push it with `git push -u origin HEAD`, same rules as Step 3. Once promoted to `main`, `.github/workflows/send-report.yml` emails it. So **day 7 sends two emails** — the reading and the report. That is intended; do not push the report more than once.
 4. Never edit `data/STATS.md` (auto-generated) or other days' `data/citations/*.json`. You only **read** the data and **write** your report.
 
 ## Failure handling
 
 - If the backlog is empty on a Monday, generate a well-chosen theme yourself, note `[auto-selected]` next to it in `themes/history.md`, and continue normally.
-- If the push to `main` fails, retry once after `git pull --rebase origin main`, then `git push origin HEAD:main` again. Never force-push, and never fall back to pushing a branch or opening a pull request — that would deliver nothing.
+- If the push fails, retry `git push -u origin HEAD` once. Never force-push, never push to `main`, and never open a pull request.
 - A Gmail connector may be available in your session, but it can only create drafts, not send. Do not rely on it for delivery; the GitHub Action is the delivery channel.

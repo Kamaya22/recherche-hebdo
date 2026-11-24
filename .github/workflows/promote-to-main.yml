@@ -1,13 +1,18 @@
 name: Promote an agent branch to main
 
-# Safety net. The cloud sandbox starts each routine run on a fresh `claude/...` branch, and a
-# reading left there is never emailed (send-reading.yml only listens to `main`). If a run pushes
-# its reading to a branch instead of to main, this workflow moves it to main and fires the email.
-# The routine is still expected to push straight to main — see INSTRUCTIONS.md Step 3.
+# The cloud routine can only push to its own `claude/...` branch. This workflow checks what
+# that branch changed and, if it carries a reading and stays inside the content directories,
+# moves it onto main, deletes the branch, and starts the email / stats workflows.
+#
+# Runs on `workflow_run`, so this file is always taken from main — see agent-branch.yml.
+# A branch that touches anything else (workflows, tools, INSTRUCTIONS.md…) is refused:
+# the job fails (GitHub notifies you) and the branch is kept for inspection until
+# prune-claude-branches.yml removes it.
 
 on:
-  push:
-    branches: ["claude/**"]
+  workflow_run:
+    workflows: ["Agent branch pushed"]
+    types: [completed]
 
 permissions:
   contents: write
@@ -19,6 +24,7 @@ concurrency:
 
 jobs:
   promote:
+    if: startsWith(github.event.workflow_run.head_branch, 'claude/')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,38 +35,50 @@ jobs:
       - name: Promote the branch onto main
         id: promote
         env:
-          SHA: ${{ github.sha }}
+          SHA: ${{ github.event.workflow_run.head_sha }}
+          BRANCH: ${{ github.event.workflow_run.head_branch }}
         run: |
           set -euo pipefail
 
-          skip() {
+          # Delete the branch, but only if nobody pushed to it since (lease on $SHA).
+          delete_branch() {
+            git push -q origin --force-with-lease="refs/heads/$BRANCH:$SHA" --delete "$BRANCH" \
+              && echo "Deleted $BRANCH." \
+              || echo "::warning::$BRANCH moved or is already gone — left for prune-claude-branches.yml."
+          }
+          done_nothing() {
             echo "$1"
             echo "promoted=false" >> "$GITHUB_OUTPUT"
-            echo "report=false" >> "$GITHUB_OUTPUT"
+            delete_branch
             exit 0
           }
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch -q origin "$SHA"
 
           # Already published — never re-dispatch, that would resend an old email.
           if git merge-base --is-ancestor "$SHA" HEAD; then
-            skip "main already contains $SHA, nothing to promote."
+            done_nothing "main already contains $SHA, nothing to promote."
           fi
 
           BASE=$(git merge-base HEAD "$SHA")
           CHANGED=$(git diff --name-only "$BASE" "$SHA")
           echo "Changed files on this branch:"
-          echo "$CHANGED"
+          echo "$CHANGED" | sed 's/^/  /'
+
+          # Refuse anything that reaches outside the content directories.
+          OUTSIDE=$(echo "$CHANGED" | grep -vE '^(weeks|themes|rapports|data)/' || true)
+          if [ -n "$OUTSIDE" ]; then
+            echo "::error::$BRANCH touches files outside weeks|themes|rapports|data — refusing to promote:"
+            echo "$OUTSIDE" | sed 's/^/  /'
+            exit 1
+          fi
 
           # Only publishable work gets promoted.
           if ! echo "$CHANGED" | grep -qE '^(weeks/.+/day-[0-9]+\.md|rapports/.+\.md)$'; then
-            skip "No reading or report on this branch — nothing publishable, leaving main alone."
-          fi
-
-          # Refuse anything that reaches outside the content directories.
-          if echo "$CHANGED" | grep -qvE '^(weeks/|themes/|rapports/|data/)'; then
-            skip "Branch touches files outside weeks|themes|rapports|data — refusing to auto-promote."
+            echo "::error::$BRANCH carries no reading or report — nothing publishable, leaving main alone."
+            exit 1
           fi
 
           # Keep main linear: send-reading.yml checks out with fetch-depth 2 and reads
@@ -75,7 +93,7 @@ jobs:
             echo "Not a fast-forward. Copying the publishable files from $SHA onto main."
             # `|| true`: a grep with no match returns 1, which pipefail would turn into a
             # job failure. A branch legitimately may carry no theme.md.
-            CONTENT=$(echo "$CHANGED" | grep -E '^(weeks/.+/day-[0-9]+\.md|rapports/.+\.md)$' || true)
+            CONTENT=$(echo "$CHANGED" | grep -E '^(weeks/.+/day-[0-9]+\.md|rapports/.+\.md|data/citations/.+)$' || true)
             THEMES=$(echo "$CHANGED" | grep -E '^weeks/.+/theme\.md$' || true)
 
             for f in $CONTENT; do
@@ -93,21 +111,19 @@ jobs:
             done
 
             if [ -z "$(git status --porcelain)" ]; then
-              skip "Those files are already on main with identical content — nothing to publish."
+              done_nothing "Those files are already on main with identical content — nothing to publish."
             fi
 
             git commit -m "$(git log -1 --format=%s "$SHA")" \
-                       -m "Promoted onto main from ${GITHUB_REF_NAME} by promote-to-main.yml."
+                       -m "Promoted onto main from ${BRANCH} by promote-to-main.yml."
           fi
 
           git push origin main
+          delete_branch
 
           echo "promoted=true" >> "$GITHUB_OUTPUT"
-          if echo "$CHANGED" | grep -qE '^rapports/.+\.md$'; then
-            echo "report=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "report=false" >> "$GITHUB_OUTPUT"
-          fi
+          echo "report=$(echo "$CHANGED" | grep -qE '^rapports/.+\.md$' && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          echo "stats=$(echo "$CHANGED" | grep -qE '^data/(citations/|registry\.csv$)' && echo true || echo false)" >> "$GITHUB_OUTPUT"
 
       # A push made with GITHUB_TOKEN does not trigger other workflows; workflow_dispatch is the
       # documented exception, so the email workflows are kicked off explicitly here. Both already
@@ -123,3 +139,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run send-report.yml --ref main
+
+      - name: Rebuild source statistics
+        if: steps.promote.outputs.promoted == 'true' && steps.promote.outputs.stats == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run build-stats.yml --ref main
