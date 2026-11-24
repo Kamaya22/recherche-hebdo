@@ -1,0 +1,57 @@
+{
+  "week": "2026-W48",
+  "day": 2,
+  "theme": "The skin microbiome — how resident bacteria shape eczema, acne, wound healing and immune tone",
+  "citations": [
+    {
+      "source_id": "exp-mol-med",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.1038/s12276-025-01427-y",
+      "title": "Conversation between skin microbiota and the host: from early life to adulthood"
+    },
+    {
+      "source_id": "jci",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://www.jci.org/articles/view/184315",
+      "title": "Skin microbiome and dermatologic disorders"
+    },
+    {
+      "source_id": "journal-of-investigative-dermatology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2011,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3174284/",
+      "title": "Microbial Symbiosis with the Innate Immune Defense System of the Skin"
+    },
+    {
+      "source_id": "immunity",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2015,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4654993/",
+      "title": "A wave of regulatory T cells into neonatal skin mediates tolerance to commensal microbes"
+    },
+    {
+      "source_id": "science",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7603427/",
+      "title": "MAIT cells are imprinted by the microbiota in early life and promote tissue repair"
+    }
+  ]
+}
