@@ -1,5 +1,7 @@
 # The skin microbiome
 
+Start: 2026-11-21
+
 How resident bacteria shape eczema, acne, wound healing and immune tone.
 
 ## Why it matters
@@ -17,3 +19,5 @@ Skin is the body's largest organ and its outermost interface with the environmen
 - **Day 7 — Synthesis**: what is settled vs. genuinely open, 3-5 big open questions, and pointers for going deeper.
 
 The outline is a guide, not a contract, and later days may shift based on what the research turns up.
+
+_Schedule note: this theme began under the old daily rhythm (Day 1 on 2026-11-23, Day 2 on 2026-11-24). From Day 3 it follows the one-reading-every-two-days schedule; the `Start:` date above is set so that Day 3 = 2026-11-25, Day 4 = 11-27, Day 5 = 11-29, Day 6 = 12-01 and Day 7 = 12-03. The next theme starts on 2026-12-05._
