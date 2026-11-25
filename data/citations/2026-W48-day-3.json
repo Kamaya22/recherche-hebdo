@@ -1,0 +1,77 @@
+{
+  "week": "2026-W48",
+  "day": 3,
+  "theme": "The skin microbiome — how resident bacteria shape eczema, acne, wound healing and immune tone",
+  "citations": [
+    {
+      "source_id": "acta-dermato-venereologica",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://doi.org/10.2340/00015555-3514",
+      "title": "Skin Microbiome in Atopic Dermatitis"
+    },
+    {
+      "source_id": "frontiers-molecular-biosciences",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.3389/fmolb.2023.1159404",
+      "title": "The immunological and structural epidermal barrier dysfunction and skin microbiome in atopic dermatitis-an update"
+    },
+    {
+      "source_id": "frontiers-cellular-infection-microbiology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.3389/fcimb.2024.1518811",
+      "title": "Skin microbiota: pathogenic roles and implications in atopic dermatitis"
+    },
+    {
+      "source_id": "nature",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "paywall",
+      "year": 2013,
+      "url": "https://doi.org/10.1038/nature12655",
+      "title": "Staphylococcus δ-toxin induces allergic skin disease by activating mast cells"
+    },
+    {
+      "source_id": "science-translational-medicine",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2020,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7426015/",
+      "title": "Staphylococcus Agr virulence is critical for epidermal colonization and associates with atopic dermatitis development"
+    },
+    {
+      "source_id": "science-translational-medicine",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2019,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7106486/",
+      "title": "Quorum sensing between bacterial species on the skin protects against epidermal injury in atopic dermatitis"
+    },
+    {
+      "source_id": "frontiers-in-immunology",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2025,
+      "url": "https://doi.org/10.3389/fimmu.2025.1667195",
+      "title": "Endolysin significantly improves symptoms with atopic dermatitis: bridging the gap from research to clinical practice"
+    }
+  ]
+}
