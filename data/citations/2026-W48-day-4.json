@@ -1,0 +1,57 @@
+{
+  "week": "2026-W48",
+  "day": 4,
+  "theme": "The skin microbiome — how resident bacteria shape eczema, acne, wound healing and immune tone",
+  "citations": [
+    {
+      "source_id": "dermatology-and-therapy",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.1007/s13555-023-01079-8",
+      "title": "The Microbiome and Acne: Perspectives for Treatment"
+    },
+    {
+      "source_id": "ijms",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2024,
+      "url": "https://doi.org/10.3390/ijms25105302",
+      "title": "Exploring Acne Treatments: From Pathophysiological Mechanisms to Emerging Therapies"
+    },
+    {
+      "source_id": "frontiers-in-immunology",
+      "location": "todays-readings",
+      "evidence_type": "review",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.3389/fimmu.2023.1324930",
+      "title": "A review of skin immune processes in acne"
+    },
+    {
+      "source_id": "nature-communications",
+      "location": "text",
+      "evidence_type": "primary-study",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2023,
+      "url": "https://doi.org/10.1038/s41467-023-36694-8",
+      "title": "Topical phage therapy in a mouse model of Cutibacterium acnes-induced acne-like lesions"
+    },
+    {
+      "source_id": "skin-health-and-disease",
+      "location": "text",
+      "evidence_type": "rct",
+      "peer_reviewed": true,
+      "open_access": "open",
+      "year": 2022,
+      "url": "https://doi.org/10.1002/ski2.93",
+      "title": "Development of a topical bacteriophage gel targeting Cutibacterium acnes for acne prone skin and results of a phase 1 cosmetic randomized clinical trial"
+    }
+  ]
+}
